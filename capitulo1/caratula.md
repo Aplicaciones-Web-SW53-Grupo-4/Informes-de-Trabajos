@@ -5,13 +5,13 @@
 ## Ciclo II
 
 ## Aplicaciones Web
-- **Sección:** [SW53]
-- **Profesor:** [Naldo Reupo-Musayon Gastulo]
+**Sección:** [SW53]
+**Profesor:** [Naldo Reupo-Musayon Gastulo]
 
 ### **Informe de Trabajo Final**
 
-- **Startup:** [Speed-Driving]
-- **Producto:** [Automovile-Unit]
+**Startup:** [Speed-Driving]
+**Producto:** [Automovile-Unit]
 
 ### Relación de Integrantes:
 - [Baldeon Fabian, Aldo Alberto - u202122633]
@@ -22,9 +22,8 @@
 
 **Mes y Año:** [Agosto - 2023]
 
-</div>
 
-*** //
+***
 
 
 ## Registro de Versiones del Informe
@@ -36,6 +35,7 @@
 | 3    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
 | 4    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
 
+</div>
 
 ## Project Report Collaboration Insights
 
