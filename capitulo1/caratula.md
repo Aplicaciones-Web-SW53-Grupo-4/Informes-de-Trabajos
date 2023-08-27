@@ -1,19 +1,19 @@
 <div align="center">
 
-# Universidad Peruana de Ciencias Aplicadas 
+## Universidad Peruana de Ciencias Aplicadas 
 ## Ingenieria de software 
 ## Ciclo II
 
 ## Aplicaciones Web
-- **Sección:** [SW53]
-- **Profesor:** [Naldo Reupo-Musayon Gastulo]
+**Sección:** [SW53]
+**Profesor:** [Naldo Reupo-Musayon Gastulo]
 
-### **Informe de Trabajo Final**
+## **Informe de Trabajo Final**
 
-- **Startup:** [Speed-Driving]
-- **Producto:** [Automovile-Unit]
+**Startup:** [Speed-Driving]
+**Producto:** [Automovile-Unit]
 
-### Relación de Integrantes:
+## Relación de Integrantes:
 - [Baldeon Fabian, Aldo Alberto - u202122633]
 - [Herrera Del Pino, Josehp Piero - u20211e098]
 - [Rengifo Mirabal, Randy Becker - u20211d683]
@@ -24,7 +24,7 @@
 
 </div>
 
-*** //
+***
 
 
 ## Registro de Versiones del Informe
