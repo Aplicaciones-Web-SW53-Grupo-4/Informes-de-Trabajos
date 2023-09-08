@@ -1,16 +1,16 @@
-<div align="center">
-
 ## Universidad Peruana de Ciencias Aplicadas 
 ## Ingenieria de software 
 ## Ciclo II
 
 ## Aplicaciones Web
 **Sección:** [SW53]
+
 **Profesor:** [Naldo Reupo-Musayon Gastulo]
 
 ## **Informe de Trabajo Final**
 
 **Startup:** [Speed-Driving]
+
 **Producto:** [Automovile-Unit]
 
 ## Relación de Integrantes:
@@ -22,23 +22,23 @@
 
 **Mes y Año:** [Agosto - 2023]
 
-</div>
-
 ***
-
 
 ## Registro de Versiones del Informe
 
 | Versión | Fecha       | Autor            | Descripción de modificación       |
 | ------- | ----------- | ---------------- | --------------------------------- |
-| 1    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
-| 2    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
-| 3    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
-| 4    | [Fecha]     | [Nombre Autor]  | [Descripción de la modificación] |
+| 1    | [23-08-2023]     | [Todos los integrantes]  | [Asignación de partes a trabajar por cada integrante del equipo] |
+| 2    | [28-08-2023]     | [Todos los integrantes]  | [Implementacion del capitulo I,II y III] |
+| 3    | [03-09-2023]     | [Todos los integrantes]  | [Implementacion del capitulo IV] |
+| 4    | [05-09-2023]     | [Todos los integrantes]  | [Implementacion del capitulo V] |
+| 5    | [08-09-2023]     | [Todos los integrantes]  | [Ultimas revisiones del documento] |
+
+
 
 
 ## Project Report Collaboration Insights
-
+**AQUI VA ALGO**
 ## **Contenido**
 ### CAPÍTULO I: INTRODUCCIÓN
 - [1.1 Startup Profile]
@@ -120,13 +120,8 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review.]
     - [5.2.1.8. Team Collaboration Insights during Sprint.]
 
-
-
-
 ## Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
-| La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. | [Acciones] | [Conclusiones sobre el criterio]               |
-
-
+| La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. | **TB1: Rengifo Mirabal, Randy Becker:** Capitulo I y III - **TB1: Baldeon Fabian, Aldo Alberto:** Capitulo II - **TB1: Herrera Del Pino, Josehp Piero** Capitulo IV - **TB1: Ruiz Torres, Erick Hernan** Capitulo IV - **TB1: Salas Pujay, Mauricio Alberto** Capitulo V | [- Hemos reconocido la importancia fundamental del trabajo en equipo en el logro de objetivos y metas compartidas. Comprendemos que no se trata solo de las habilidades individuales, sino de la capacidad de colaborar de manera efectiva. - Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. Esto implica definir metas concretas, asignar responsabilidades y elaborar un plan estratégico. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos. Entendemos que el éxito radica en nuestra capacidad para trabajar de manera eficiente y coordinada para alcanzar resultados deseables.]|
 
