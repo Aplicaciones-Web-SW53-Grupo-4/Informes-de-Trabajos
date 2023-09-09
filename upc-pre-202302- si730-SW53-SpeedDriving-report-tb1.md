@@ -1,4 +1,7 @@
-## Universidad Peruana de Ciencias Aplicadas 
+# Universidad Peruana de Ciencias Aplicadas 
+
+![upc](./fotos/UPC_logo_transparente.png)
+
 ## Ingenieria de software 
 ## Ciclo II
 
@@ -159,7 +162,7 @@ Me encuntro cursando el quinto ciclo de la carrera de Ingeniería de Software en
 **Herrera Del Pino, Josehp Piero:**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://drive.google.com/uc?id=1nSe6r07MjyBthwc65t3DK8tmdqiwcjhM" alt="FOTO JOSEHP" width="200px">
+  <img src="./fotos/Foto-Josehp.png" alt="FOTO JOSEHP" width="200px">
 </div>
 
 En la actualidad, me encuentro en el quinto ciclo de mi formación en Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi personalidad proactiva me impulsa a buscar constantemente nuevas oportunidades de aprendizaje, mientras que mi perseverancia innata me lleva a enfrentar cada desafío con determinación. Mi sentido de responsabilidad guía mis acciones, asegurando que me comprometo plenamente con mis tareas y metas. En mis momentos de ocio, encuentro satisfacción en los videojuegos, la música, el fútbol y las series, actividades que fomentan mi creatividad. Mi habilidad técnica abarca diversos lenguajes y herramientas, como C++, Java, Python, HTML, CSS, Git y Javascript, y busco constantemente fusionar creatividad y lógica para abordar desafíos con innovación y eficiencia.
@@ -167,7 +170,7 @@ En la actualidad, me encuentro en el quinto ciclo de mi formación en Ingenierí
 **Rengifo Mirabal, Randy Becker:**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://drive.google.com/uc?id=1nISfaaPTlcSGwTBTLx_M74Iq9Ut4oN3v" alt="FOTO RANDY" width="150px">
+  <img src="./fotos/Foto-Randy.png" alt="FOTO RANDY" width="150px">
 </div>
 
 Actualemente me encuentro cursando el quinto ciclo de la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, perseverante, responsable y sobre todo divertido. Mis pasatiempos favoritos son los videojuegos, escuchar música, jugar al futbol. Cuentos con conocimientos en C++, Java, Kotlin, HTML, CSS, etc.
@@ -175,7 +178,7 @@ Actualemente me encuentro cursando el quinto ciclo de la carrera de Ingenieria d
 **Ruiz Torres, Erick Hernan**
 
 <div style="float: right; margin-left: 30px;">
-  <img src="https://drive.google.com/uc?id=1lyoqrUEfBGL7tk79tNOIL0z05LbN_rqL" alt="FOTO ERICK" width="250px">
+  <img src="./fotos/Foto-Erick.png" alt="FOTO ERICK" width="250px">
 </div>
 
 Actualmente me encuentro cursando el quinto ciclo de la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, puntual y dedicada. Mis pasatiempos favorito es la ilustración digital, escuchar música, jugar al futbol. Cuento con conocimientos en C++, Java, HTML, CSS, etc.
@@ -183,7 +186,7 @@ Actualmente me encuentro cursando el quinto ciclo de la carrera de Ingenieria de
 **Salas Pujay, Mauricio Alberto:**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://drive.google.com/uc?id=1AJLd-dpp9IjcZkDcheGa_3dJg4ZY5ZZX" alt="FOTO MAURICIO" width="200px">
+  <img src="./fotos/Foto-Mauricio.png" alt="FOTO MAURICIO" width="200px">
 </div>
 
 Actualmente me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable, proactivo, y eficiente. Mis pasatiempos favoritos son escuchar música, ver series y en ciertas ocasiones jugar videojuegos y al básquet. En cuanto al conocimiento de la programación tengo una experiencia en uso de C++, Java Script, Html, Css.
@@ -357,5 +360,1877 @@ Estas son las personas que poseen automóviles y están dispuestas a compartirlo
 - Personas que están dispuestas a rentar su automóvil mientras están de vacaciones o fuera de la ciudad.
 - Dueños de automóviles de lujo que desean compartir la experiencia de conducir esos vehículos.
 
+# **CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS**
+
+## **2.1. Competidores**
+
+Luego de nuestra investigación, hemos identificado dos modelos de negocio que se dedican a proporcionar servicios y beneficios afines a los que ofrecemos. Estas empresas emergen como potenciales competidores en nuestro campo. Mediante este análisis competitivo, buscamos obtener una visión integral del panorama competitivo en el que operaremos, lo que nos permitirá tomar decisiones informadas y definir nuestra estrategia para destacarnos en este entorno desafiante y en constante evolución.
+
+* Getaround:<br>
+  Getaround es una destacada empresa de movilidad compartida con sede en San Francisco, fundada en 2009. Su plataforma en        línea y aplicación móvil conectan propietarios de automóviles con arrendatarios que buscan alquilar vehículos por períodos 
+  específicos. Al aprovechar vehículos subutilizados, Getaround ofrece una variedad de opciones de vehículos, desde económicos 
+  hasta de lujo, brindando una solución flexible y asequible para las necesidades de transporte. La empresa destaca por su 
+  enfoque en tecnología e innovación, implementando medidas de seguridad, como verificaciones de antecedentes y seguros 
+  integrales, para fomentar la confianza entre los usuarios. 
+* Turo:<br>
+  Turo, una empresa líder en movilidad compartida, opera globalmente, incluyendo Australia. Su plataforma conecta a 
+  propietarios de vehículos con viajeros y locales que buscan alquilar vehículos directamente. Similar a Getaround, ofrece una 
+  gama diversa de vehículos y se enfoca en la confianza de la comunidad, proporcionando reseñas y medidas de seguridad. Turo 
+  ha redefinido el alquiler de automóviles con su enfoque colaborativo y flexible, satisfaciendo las necesidades de transporte 
+  de manera asequible y personalizada en Australia y en todo el mundo.
+* Amovens:<br>
+  Amovens es una destacada empresa de movilidad compartida que se enfoca en transformar el alquiler de coches a través de su 
+  plataforma en línea y aplicación móvil. Su enfoque principal es el alquiler de coches entre particulares, permitiendo a los 
+  usuarios alquilar vehículos directamente de otros miembros de la comunidad. Esto proporciona una amplia gama de opciones de 
+  coches y fomenta la colaboración y la sostenibilidad. La plataforma se destaca por su compromiso con la seguridad y la 
+  confiabilidad, ofreciendo sistemas de verificación de usuarios, reseñas y calificaciones. En definitiva, Amovens revoluciona 
+  la manera en que las personas acceden y utilizan vehículos, alineándose con la creciente demanda de soluciones de alquiler 
+  de coches más flexibles y personalizadas.
+
+### **2.1.1. Análisis competitivo**
+
+<table>
+    <tr>
+      <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+    </tr>
+    <tr>
+      <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+    </tr>
+    <tr>
+      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+          Automovile-Unit
+          <br>
+          <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://media.discordapp.net/attachments/991473069942120498/1148672750584598628/image.png" alt="ChambeaPe" width="60px">
+          </div>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Amovens
+      <div style="text-align: center;">
+                  <img src="https://media.discordapp.net/attachments/991473069942120498/1148671303784603648/image.png" alt="Despegar.com" width="60px">
+          </div>
+      </td>
+      <td colspan="1" valign="top" style="font-weight: bold;">
+        Getarounds 
+        <div style="text-align: center; margin-top: 20px;">
+                  <img src="https://media.discordapp.net/attachments/991473069942120498/1148671330615570523/image.png" alt="Rappitravel" width="60px">
+              </div>
+        </td>
+      <td colspan="1" valign="top" style="font-weight: bold;" >
+        Turo
+        <div style="text-align: center; margin-top: 10px;">
+                  <img src="https://media.discordapp.net/attachments/991473069942120498/1148671356360204319/image.png" alt="Almundo.com" width="60px">
+              </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil</p></td>
+      <td colspan="2">Overview</td>
+      <td colspan="1" valign="top">Aplicación que actúa como un intermediario confiable entre propietarios de automóviles y usuarios que desean alquilar.</td>
+      <td colspan="1" valign="top">Aplicación que se enfoca en el alquiler de coches entre particulares, promoviendo la sostenibilidad y la colaboración comunitaria.</td>
+      <td colspan="1" valign="top">Aplicación que permite a los propietarios compartir sus vehículos con su enfoque innovador y tecnológico.</td>
+      <td colspan="1" valign="top">Aplicación que permite a usuarios alquilar vehículos directamente de propietarios, brindando opciones personalizadas y flexibles.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Ventaja competitiva</td>
+      <td colspan="1" valign="top">Ofrecemos incentivos para que los propietarios ofrezcan descuentos especiales durante los períodos de demanda baja. Ademas, implementa un sistema de calificaciones y reseñas, así como verificaciones de identidad rigurosas, Automovile-Unit aborda la falta de confianza en el proceso de alquiler.</td>
+      <td colspan="1" valign="top">Ofrece a los clientes el valor de la movilidad compartida sostenible y personalizada. <br> Permite a los usuarios alquilar coches directamente con opciones flexibles y económicas.<br> La plataforma fomenta la colaboración y la reducción de emisiones, proporcionando a los clientes una alternativa más ecológica y eficiente.</td>
+      <td colspan="1" valign="top">Ofrece la optimización de la utilización de vehículos. Al permitir a los propietarios alquilar sus coches cuando no los usan, Getaround brinda a los clientes acceso a una variedad de vehículos según su preferencia y necesidades. Esto les ofrece comodidad y flexibilidad mientras aborda la congestión vial y contribuye a una economía más eficiente.</td>
+      <td colspan="1" valign="top">Ofrece a los clientes poder alquilar vehículos directamente de propietarios brindando una experiencia de alquiler más auténtica y personalizada. <br>Además, los usuarios pueden elegir entre una amplia gama de vehículos para adaptarse a sus gustos y necesidades. La plataforma se destaca por su enfoque en la seguridad y la confianza, asegurando una experiencia de alquiler sin problemas.</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+      <td colspan="2">Mercado objetivo</td>
+      <td colspan="1" valign="top">Arrendatario, personas que desean alquilar un automóvil por un período específico. <br>   
+      Propietarios de vehículos, son personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler. </td>
+      <td colspan="1" valign="top">Personas conscientes de la sostenibilidad y la colaboración que buscan alternativas más ecológicas y económicas para sus desplazamientos diarios.</td>
+      <td colspan="1" valign="top">Público en general mayor a 18 años que busquen opciones de alquiler de vehículos más flexibles y diversas para satisfacer sus necesidades de transporte.</td>
+      <td colspan="1" valign="top">Publico que busque experiencias de alquiler de coches únicas y personalizadas. Esto abarca desde personas que desean alquilar vehículos convencionales hasta aquellas que buscan opciones más exclusivas y lujosas.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Estrategias de marketing</td>
+      <td colspan="1" valign="top">Utilizar publicidad en línea, como Google Ads o anuncios <br> Mantener presencia activa en las redes sociales. Compartiremos contenido, promociones especiales y responderemos preguntas de los usuarios.</td>
+      <td colspan="1" valign="top">Centrarse en resaltar su enfoque en la sostenibilidad y la colaboración. Utilizan campañas de concienciación sobre la reducción de emisiones y la movilidad compartida para atraer a usuarios preocupados por el medio ambiente.</td>
+      <td colspan="1" valign="top">Centrarse en la conveniencia y la variedad de opciones de alquiler. Destacan la facilidad de compartir coches y resaltan cómo su plataforma permite a los usuarios elegir entre una amplia gama de vehículos para adaptarse a sus necesidades.</td>
+      <td colspan="1" valign="top">Enfocarse en la autenticidad y la personalización de la experiencia de alquiler. Resaltan la diversidad de vehículos disponibles en su plataforma, desde modelos convencionales hasta opciones de lujo y exóticas.</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+      <td colspan="2">Productos & Servicios</td>
+      <td colspan="1" valign="top">La aplicación brinda a los usuarios varias funciones para llevar un correcto manejo de su dinero. Asimismo, cuenta con un sistema de recordatorio de pagos y con una IA que permite prever gastos.</td>
+      <td colspan="1" valign="top">Ofrece una plataforma de movilidad compartida. Su principal enfoque es el alquiler de coches entre particulares, permitiendo a los usuarios alquilar vehículos directamente de otros miembros de la comunidad.</td>
+      <td colspan="1" valign="top">Ofrece una plataforma de alquiler de vehículos entre particulares, permitiendo a los propietarios compartir sus coches cuando no los utilizan.</td>
+      <td colspan="1" valign="top">Ofrece una plataforma de alquiler de coches entre particulares, donde los usuarios pueden alquilar una amplia gama de vehículos directamente de los propietarios.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+      <td colspan="1" valign="top">La aplicación es totalmente gratuita. </td>
+    </tr>
+    <tr>
+      <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+      <td colspan="1" valign="top"><br>El canal de distribución es Web.</td>
+      <td colspan="1" valign="top"><br>Los canales de distribución son digitales, como La App Store y Google Play.</td>
+      <td colspan="1" valign="top"><br>Los canales de distribución son digitales, como La App Store y Google Play.</td>
+      <td colspan="1" valign="top"><br>Los canales de distribución son digitales, como La App Store y Google Play.</td>
+    </tr>
+    <tr>
+      <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+      <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Fortalezas</td>
+      <td colspan="1" valign="top">Al operar en una plataforma en línea permitiendo un acceso rápido. El sistema de verificación de identidad y antecedentes garantiza la confianza y seguridad de los usuarios.</td>
+      <td colspan="1" valign="top">Destaca por su enfoque en la movilidad compartida sostenible, lo que atrae a usuarios conscientes del medio ambiente y preocupados por reducir las emisiones de carbono.</td>
+      <td colspan="1" valign="top">Optimiza el uso de vehículos subutilizados, reduciendo la congestión del tráfico y brindando una solución a los problemas de estacionamiento en áreas urbanas.</td>
+      <td colspan="1" valign="top">Destaca por su amplia gama de opciones de alquiler, incluyendo vehículos convencionales, de lujo y exóticos, permitiendo a los usuarios elegir según sus preferencias.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Debilidades</td>
+      <td colspan="1" valign="top">Falta de conocimiento respecto al proceso de alquiler de vehículos en línea.</td>
+      <td colspan="1" valign="top">En comparación con algunas de sus competidores, la variedad de vehículos disponibles puede ser más limitada.</td>
+      <td colspan="1" valign="top">Su éxito depende en gran medida de la densidad de usuarios y propietarios en una ubicación determinada.</td>
+      <td colspan="1" valign="top">Los precios pueden variar según la ubicación y la disponibilidad, lo que puede llevar a fluctuaciones en los costos para los usuarios.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Oportunidades</td>
+      <td colspan="1" valign="top">Implementar programas de recompensas incentiva a los usuarios a utilizar repetidamente la plataforma. Ofrecer descuentos por reservas frecuentes o recompensas por referir a otros usuarios puede impulsar el crecimiento.</td>
+      <td colspan="1" valign="top">Amovens podría considerar la expansión de sus servicios, como la incorporación de más opciones de vehículos.</td>
+      <td colspan="1" valign="top">Expandirse a nuevas ciudades y regiones puede aumentar su base de usuarios.</td>
+      <td colspan="1" valign="top">Turo podría considerar una expansión internacional para llegar a más usuarios en todo el mundo.</td>
+    </tr>
+    <tr>
+      <td colspan="2">Amenazas</td>
+      <td colspan="1" valign="top">Cambios en las regulaciones de alquiler de vehículos pueden afectar la operación y requerir ajustes en la plataforma.</td>
+      <td colspan="1" valign="top">La adopción de transporte público mejorado, sistemas de bicicletas compartidas o vehículos autónomos podría reducir la demanda de alquiler de automóviles compartidos.</td>
+      <td colspan="1" valign="top">Incidentes de seguridad, como accidentes graves o problemas de delincuencia relacionados con vehículos compartidos, podrían dañar la reputación y la confianza de los usuarios.</td>
+      <td colspan="1" valign="top">La aparición de nuevas tecnologías, como la conducción autónoma, podría alterar significativamente el mercado de movilidad compartida.</td>
+    </tr>
+  </table>
+  
+### **2.1.2. Estrategias y tácticas frente a competidores**
+
+  Las estrategias y tácticas que utilizaremos para aprovechar nuestras fortalezas y oportunidades, mientras sacamos provecho   de las debilidades y amenazas de nuestros competidores, son las siguientes:
+
+  * Automovile-Unit se esforzará por simplificar y agilizar el proceso de reserva y alquiler para brindar a los usuarios una     experiencia fluida y libre de complicaciones. La plataforma contará con una interfaz de usuario intuitiva y fácil de         navegar, guiando a los usuarios a través de cada paso del proceso.
+  * El servicio al cliente será una prioridad para Automovile-Unit, con el objetivo de brindar asistencia oportuna y de alta     calidad a los usuarios. Se ofrecerá un servicio de chat en línea en tiempo real a través de la plataforma, donde los         usuarios podrán hacer preguntas y resolver problemas de manera inmediata.
+  * La seguridad y la confianza serán fundamentales en la plataforma de Automovile-Unit. Para garantizar la integridad de la     comunidad. Los propietarios y usuarios deberán proporcionar documentación válida para verificar su identidad y               establecer un alto nivel de confianza en la plataforma. Tambien, se implementarán controles exhaustivos de antecedentes      penales y de seguridad para garantizar que los usuarios cumplan con los requisitos de confiabilidad.
+
+## **2.2. Entrevistas.**
+### **2.2.1. Diseño de entrevistas.**
+
+* Segmento objetivo 1 "Propietarios de vehículos" <br>
+  Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler.<br>
+    * Preguntas generales: <br> 
+      * **¿Cuál es su nombre completo?** <br>
+      * **¿Cuántos años tienes?** <br>
+      * **¿Cuál es su estado civil?** <br>
+      * **¿A qué te dedicas?** <br>
+      * **¿Trabajas?** <br>
+      * **¿Estudias?** <br>
+      * **¿En qué ciudad resides?** 
+
+   * Preguntas sobre el Negocio de Alquiler de Vehículos:<br>
+     * **¿Actualmente posee uno o varios vehículos adicionales que no utiliza constantemente?** <br>
+     * **¿Estaría interesado en la posibilidad de ganar dinero alquilando su vehículo cuando no lo está utilizando?** <br>
+     * **¿Qué le motiva a considerar la idea de compartir su vehículo en una plataforma de alquiler?** <br>
+     * **¿Qué tipo de vehículo(s) posee y estaría dispuesto a compartir en la plataforma?** <br>
+     * **¿Ha tenido experiencia previa alquilando su vehículo o considerando esta opción?** <br>
+   * Preguntas luego de contarle sobre la Plataforma Automovile-Unit: <br>
+     * **¿Cómo ve la idea de utilizar una plataforma en línea para mostrar su vehículo y permitir que otros lo alquilen?** <br>
+     * **¿Cuáles serían sus preocupaciones principales al alquilar su vehículo a desconocidos?** <br>
+     * **¿Qué medidas de seguridad y verificación consideraría necesarias para sentirse cómodo alquilando su vehículo?** <br>
+     * **¿Estaría dispuesto a ofrecer incentivos especiales, como descuentos, para aumentar la visibilidad de su vehículo en la plataforma?** <br>
+     * **¿Qué características o herramientas le gustaría ver en la plataforma para facilitar el proceso de alquiler y comunicación con los usuarios?** <br>
+   * Preguntas sobre la Experiencia del Usuario: <br>
+     * **¿Qué información considera importante incluir en la descripción de su vehículo para los posibles arrendatarios?** <br>
+     * **¿Cómo preferiría coordinar la entrega y devolución de su vehículo con los usuarios que lo alquilen?** <br>
+     * **¿Considera importante recibir calificaciones y reseñas de los usuarios que alquilen su vehículo?** <br>
+     * **¿Qué aspectos considera importantes al interactuar con los usuarios interesados en alquilar su vehículo?** <br>
+
+* Segmento objetivo 2 "Arrendatarios"<br> 
+  Estas son las personas que desean alquilar un automóvil por un período específico.<br> 
+    * Preguntas generales:<br>
+      
+      * **¿Cuál es su nombre completo?** <br>
+      * **¿Cuántos años tienes?** <br> 
+      * **¿Cuál es su estado civil?** <br> 
+      * **¿A qué te dedicas?, ¿Trabajas?, ¿Estudias?** <br> 
+      * **¿En qué ciudad resides?** <br>
+
+    * Preguntas sobre el Alquiler de Vehículos: <br>
+      * **¿Ha alquilado un vehículo en el pasado?** <br> 
+      * **¿Por qué decidido alquilar el vehículo?** <br> 
+      * **Coménteme su experiencia alquilando dicho vehículo, ¿Qué aspectos disfrutó y qué aspectos considera que podrían mejorarse?** <br> 
+      * **¿Qué tipo de vehículo(s) preferiría alquilar y para qué ocasiones?** <br> 
+      * **¿Qué factores considera importantes al momento de seleccionar un vehículo de alquiler?** <br> 
+    * Preguntas luego de contarle sobre la Plataforma Automovile-Unit:<br>
+      * **¿Cómo se siente acerca de la idea de alquilar vehículos directamente de propietarios a través de una plataforma en línea?** <br> 
+      * **¿Qué características o herramientas le gustaría ver en una plataforma de alquiler de vehículos para que la experiencia sea más atractiva y conveniente?** <br> 
+      * **¿Cuáles son sus principales inquietudes en relación con la seguridad y confiabilidad al alquilar un vehículo de un propietario privado?** <br> 
+      * **¿Valora la posibilidad de acceder a vehículos únicos o específicos en términos de marca, modelo o características?** <br> 
+      * **¿Estaría dispuesto a proporcionar calificaciones y reseñas sobre los vehículos y propietarios con los que tuvo experiencia?** <br> 
+    * Preguntas sobre las Necesidades y Motivaciones: <br>
+      * **¿Cuáles son las principales razones por las que alquilaría un vehículo en lugar de utilizar su propio automóvil o el transporte público?** <br> 
+      * **¿Ha tenido situaciones en las que hubiera sido más conveniente tener acceso a un vehículo de alquiler por un período corto?** <br> 
+      * **¿Cuál sería su principal expectativa en términos de proceso de reserva y entrega del vehículo alquilado?** <br> 
+      * **¿Consideraría la opción de alquilar vehículos en diferentes ocasiones, como para eventos especiales o viajes de trabajo?** <br> 
+      * **¿Qué tipo de incentivos o características adicionales en la plataforma le motivarían a elegir alquilar un vehículo a través de Automovile-Unit?** <br> 
 
 
+### **2.2.2. Registro de entrevistas.**
+
+### **2.2.3. Análisis de entrevistas.**
+**PROPIETARIOS**
+*Entrevista 1*
+
+![imagen1](./capitulo2/img_entrevistas/entrevista_mauricio.PNG)
+
+URL del video: [Click](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202120467_upc_edu_pe/ETu3x-TX6OdGqsrgg5PhM8ABsqNUpxAFG9a8g5CZlQWLZQ?e=zkvOCS)
+
+En esta entrevista, se habla con Renzo Miguel, un joven de 20 años que reside en Lima y está interesado en la idea de utilizar una plataforma en línea para alquilar su vehículo cuando no lo está utilizando. Renzo expresa su interés en ganar dinero de esta manera, pero también tiene preocupaciones sobre la seguridad de su vehículo y la confiabilidad de los arrendatarios desconocidos.
+
+Renzo considera que las medidas de seguridad necesarias incluyen la verificación de la licencia de conducir vigente de los arrendatarios y tiene preocupaciones sobre el posible daño, pérdida o robo de su vehículo al alquilarlo.
+
+En cuanto a la plataforma, Renzo cree que es importante tener anuncios claros que incluyan información sobre el precio, calidad y estado del vehículo, así como un chat directo para facilitar la comunicación con los usuarios interesados.
+
+También menciona la importancia de recibir calificaciones y reseñas de los usuarios que alquilen su vehículo, pero señala que la excesiva exigencia por parte de los propietarios podría ser un problema.
+
+En resumen, Renzo muestra interés en la idea de alquilar su vehículo a través de una plataforma en línea, pero destaca la importancia de medidas de seguridad y una comunicación eficaz con los arrendatarios. También sugiere que las calificaciones y reseñas sean útiles y equilibradas para garantizar una buena experiencia para todos los usuarios.
+
+**ARRENDATARIOS**
+
+*Entrevista 2*
+
+![imagen1](./capitulo2/img_entrevistas/entrevista_erick.png)
+
+
+URL del video: [Click](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EQaj8DDYNzxKrqg9ZkrB8HsBcJqeuoUFdd60AwLwhVFxiw?e=ZbUdmR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Timing: 6:05; 5:47 min
+
+*Descricpión*
+
+<p style="text-align: justify;">Piero Ruiz es un estudiante universitario de 21 años. Reside en San Martín de Porres, Lima. Piero sí ha manejado autos anteriormente, pero no ha alquilado uno antes, aunque menciona que le gustaría hacerlo. Lo que él priorizaría al alquilar un auto sería que el vehículo tenga buenas características y esté en buen estado, además considera importante que el vehículo pueda recorrer largas distancias y que no gaste mucho combustible. Asimismo, piensa que un servicio de alquiler de autos debe tener un proceso sencillo y seguro, junto con un sistema de comunicación efectivo con el propietario del vehículo. Piero piensa que se debería cobrar por día de uso del auto, ya que de otra forma sería muy tedioso y costoso. También, cree que se debería cobrar alrededor de 100 soles por día de uso del auto y que se debería poder pagar tanto en efectivo como por internet y sí estaría interesado en alquilar un auto por medio de una aplicación web. Finalmente, el entrevistado manifestó que no conoce ningún servicio para alquilar autos por internet.</p>
+
+*Entrevista 3*
+
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/991473069942120498/1149746726345904229/CapturaEntrevista.PNG" alt="Img. Entrevis Aldo"  width="90%"/>
+</div>
+URL del video: <a href="https://drive.google.com/file/d/1mv1vUYsfesz3ZcTm1ud5SbKRvIifvfuo/view?usp=drive_link"> Click </a> <br><br>
+
+
+<p style="text-align: justify;">Arturo Pizarro tiene 22 años de edad y reside en el distrito de Chorrillos, destaca como un profesional en la salud. Arturo, valora en gran medida la flexibilidad que ofrece este servicio, ya que lo aprovecha para sus viajes de trabajo como para. Su elección de vehículos se inclina hacia aquellos que son altamente eficientes en cuanto al consumo de combustible y que se encuentran en óptimas condiciones. <br><br>
+Arturo hace énfasis en la usabilidad y la seguridad de la plataforma de alquiler de autos. Busca una comunicación fluida y eficiente con los propietarios de los vehículos, y considera muy importante que la plataforma ofrezca estos aspectos para garantizar una experiencia satisfactoria.<br><br>
+En términos de tarifas, Arturo prefiere el modelo de pago por día de uso, y está dispuesto a invertir alrededor de 120 soles diarios por un vehículo de calidad. Además, muestra un fuerte interés en contar con opciones de pago tanto en efectivo como en línea, y se siente atraído por la idea de utilizar una aplicación web para el alquiler de autos.
+Arturo también se muestra colaborativo al expresar su disposición para proporcionar calificaciones y reseñas en la plataforma, contribuyendo así a ayudar a otros usuarios a tomar decisiones informadas. Aunque Arturo tiene conocimiento de algunos servicios de alquiler de autos en línea, se siente especialmente entusiasmado con la propuesta de alquilar vehículos directamente de propietarios a través de una plataforma como Automovile-Unit.</p>
+
+
+## **2.3. Needfinding.**
+### **2.3.1. User Personas.**
+* Segmento objetivo 1 "Propietarios de vehículos" <br>
+  Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1148824741365436446/Carlos_Martines.png">
+  <br><br>
+* Segmento objetivo 2 "Arrendatarios" <br>
+  Estas son las personas que desean alquilar un automóvil por un período específico.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1148824705999061042/Pedro_Lopez.png"><br><br>
+#### **2.3.2. User Task Matrix.**
+
+* Segmento objetivo 1 "Propietarios de vehículos" <br>
+  Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler.<br><br>
+
+ <table align="center">
+    <thead>
+      <tr>
+        <td rowspan="2"></td>
+        <th colspan="2">User Persona</th>
+      </tr>
+      <tr>
+        <td colspan="2">Carlos Martines <br> (Segmento Objetivo 1: Arrendatario) </td>
+      </tr>
+      <tr>
+        <td>Task</td>
+        <td>Frecuency</td>
+        <td>Importance</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Listar su vehículo <br> en la plataforma para alquilar</td>
+        <td>High </td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Agregar detalles y fotos precisas<br> del vehículo</td>
+        <td>High </td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Establecer disponibilidad y tarifas<br> para el alquiler</td>
+        <td>Medium</td>
+        <td>Medium</td>
+      </tr>
+      <tr>
+        <td>Responder a consultas y mensajes<br> de arrendatarios</td>
+        <td>Medium</td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Recibir pagos por el alquiler<br> del vehículo</td>
+        <td>High  </td>
+        <td>High </td>
+      </tr>
+      <tr>
+        <td>Dejar una reseña y calificación<br> después del alquiler</td>
+        <td>Low</td>
+        <td>High</td>
+      </tr>
+    </tbody>
+  </table>
+
+* Segmento objetivo 2 "Arrendatarios" <br>
+  Estas son las personas que desean alquilar un automóvil por un período específico.<br><br>
+  
+<table align="center" >
+    <thead>
+      <tr>
+        <td rowspan="2"></td>
+        <th colspan="2">User Persona</th>
+      </tr>
+      <tr>
+        <td colspan="2">Carlos Martines <br> (Segmento Objetivo 2: Arrendatario) </td>
+      </tr>
+      <tr>
+        <td>Task</td>
+        <td>Frecuency</td>
+        <td>Importance</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Buscar vehículos <br> disponibles para alquilar</td>
+        <td>High </td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Filtrar vehículos por <br> tipo, ubicación y características</td>
+        <td>Medium </td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Ver detalles y fotos de <br> un vehículo en particular</td>
+        <td>High </td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Reservar un vehículo<br> para una fecha y hora específicas</td>
+        <td>Medium  </td>
+        <td>Medium </td>
+      </tr>
+      <tr>
+        <td>Comunicarse con el propietario<br> para coordinar la recogida y entrega</td>
+        <td>High </td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Cancelar una reserva <br>si es necesario</td>
+        <td>Medium  </td>
+        <td>High</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+  
+### **2.3.3. User Journey Mapping**
+* Segmento objetivo 1 "Propietarios de vehículos" <br>
+  Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1148827524252586074/Journey_Mapping_DuenoVehiculosC.png"><br><br>
+  <br><br>
+* Segmento objetivo 2 "Arrendatarios" <br>
+  Estas son las personas que desean alquilar un automóvil por un período específico.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1148827523937996870/Journey_Mapping_ArrendatariosC.png">
+#### **2.3.4. Empathy Mapping**
+* Segmento objetivo 1 "Propietarios de vehículos" <br>
+  Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1148828082636075129/Copia_de_Copia_de_Empathy_Map___dueno_vehiculo.png">
+  <br><br>
+* Segmento objetivo 2 "Arrendatarios" <br>
+  Estas son las personas que desean alquilar un automóvil por un período específico.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1148828082988392559/Copia_de_Empathy_Map___arrendatario.png"><br><br>
+#### **2.3.5. As-is Scenario Mapping**
+
+* Segmento objetivo 1 "Propietarios de vehículos" <br>
+  Estas son las personas que poseen automóviles y están dispuestas a compartirlos con otros a cambio de un alquiler.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1149453602977488906/Scenario_Mapping_Dueno_Vehiculo.jpg">
+  <br><br>
+* Segmento objetivo 2 "Arrendatarios" <br>
+  Estas son las personas que desean alquilar un automóvil por un período específico.<br><br>
+  <img src="https://cdn.discordapp.com/attachments/991473069942120498/1149453602671300668/Scenario_Mapping_Arrendatario.jpg"><br><br>
+
+# **CAPÍTULO III: REQUIREMENTS  SPECIFICATION**
+
+## **3.1. To-Be Scenario Mapping.**
+
+### Escenario "To-Be" Mapping para Arrendatarios
+![Imagen](To-be%20Arrendatario%20Automovile-Unit.jpg)
+
+### Escenario "To-Be" Mapping para Propietarios
+![Imagen](To-be%20Propietario%20Automovile-Unit.jpg)
+
+
+## **3.2. Historias de Usuario**
+
+### **User Story: 1**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Ver perfil
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** poder ver mi perfil de usuario en la plataforma **para** acceder y gestionar mis datos personales y de alquiler.
+
+**Criterios de Aceptación:**
+- **Dado** que soy un arrendatario, **cuando** accedo a mi perfil, **entonces** veo mis datos personales, la cantidad de vehículos alquilados y opciones para cambiar mi foto de perfil, actualizar mis datos y cerrar sesión.
+
+***
+
+### **User Story: 2**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Subir documentos de Antecedentes Penales
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** tener la opción de subir documentos de antecedentes penales **para** validar mis datos en la plataforma de alquiler de vehículos.
+
+**Criterios de Aceptación:**
+- **Dado** que soy un arrendatario, **cuando** accedo a mi perfil, **entonces** veo el botón "Subir documentos de Antecedentes Penales". Al presionar el botón, puedo seleccionar y subir documentos desde mi ordenador. Después de subir los documentos, el botón cambia a "Actualizar documentos de Antecedentes Penales".
+
+***
+
+### **User Story: 3**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Buscar vehículo
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** tener la opción de buscar vehículos disponibles **para** alquilar en la plataforma.
+
+**Criterios de Aceptación:**
+- **Dado** que soy un arrendatario, **cuando** accedo a la sección "Buscar Autos", **entonces** veo opciones para filtrar por ubicación, precio, tiempo de alquiler, marca, modelo, clase y transmisión. Al presionar el botón "Buscar", aparece una lista de resultados con datos de vehículos, propietarios y estatus del anuncio.
+
+***
+
+### **User Story: 4**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Ver contrato de alquiler
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** tener la opción de ver el contrato de alquiler de un vehículo **para** de continuar con el alquiler.
+
+**Criterios de Aceptación:**
+- **Dado** que estoy viendo los detalles de un vehículo, **cuando** presiono el botón "Ver contrato de alquiler", **entonces** se muestra el contrato con los términos y condiciones. Puedo revisar el contrato antes de decidir si proceder con el alquiler.
+
+***
+
+### **User Story: 5**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Generar firma digital
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** tener la opción de generar una firma digital en el contrato de alquiler **para** confirmar mi aceptación.
+
+**Criterios de Aceptación:**
+- **Dado** que he revisado el contrato, **cuando** presiono el botón "Generar firma digital", **entonces** se genera una firma única y asociada a mi perfil. La firma se utiliza para confirmar que acepto los términos del contrato de alquiler.
+
+***
+
+### **User Story: 6**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Solicitar Alquiler
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, después de revisar el contrato y generar una firma digital, **quiero** tener la opción de solicitar el alquiler del vehículo.
+
+**Criterios de Aceptación:**
+- **Dado** que he generado una firma digital, **cuando** presiono el botón "Solicitar Alquiler", **entonces** se envía una solicitud al propietario del vehículo para su aprobación.
+
+***
+
+### **User Story: 7**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Ver estado de solicitudes
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** poder ver el estado de mis solicitudes de alquiler **para** saber si han sido aceptadas o rechazadas por los propietarios.
+
+**Criterios de Aceptación:**
+- **Dado** que he enviado solicitudes de alquiler, **cuando** accedo a la sección "Solicitudes", **entonces** veo el estado de cada solicitud: pendiente, aceptada o rechazada. Si la solicitud es aceptada, también veo la opción de "Pagar".
+
+***
+
+### **User Story: 8**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Ver historial de alquiler
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** poder ver mi historial de procesos de alquiler que he realizado en la plataforma.
+
+**Criterios de Aceptación:**
+- **Dado** que he realizado procesos de alquiler, **cuando** accedo a la sección "Alquiler", **entonces** veo la información de cada vehículo alquilado, con la opción de "Pagar" si es necesario. Puedo agregar otro vehículo alquilado presionando el botón "Agregar otro vehículo".
+
+***
+
+### **User Story: 9**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Realizar pago
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** poder realizar el pago del alquiler de manera efectiva o en línea**.
+
+**Criterios de Aceptación:**
+- **Dado** que he decidido pagar, **cuando** presiono el botón "Pagar", **entonces** se abre una ventana con opciones de pago: "Efectivo" y "Online". Dentro de la ventana de pago, se muestran detalles como precio, tiempo de alquiler, fechas y lugar de recojo del vehículo.
+
+***
+
+### **User Story: 10**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Pago en efectivo
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** poder realizar el pago del alquiler en efectivo y confirmar la hora de recojo del vehículo.
+
+**Criterios de Aceptación:**
+- **Dado** que he elegido el pago en efectivo, **cuando** selecciono "Pago Efectivo", **entonces** se abre una ventana para confirmar la hora de recojo del vehículo. Después de confirmar la hora, aparece una ventana de confirmación de pago.
+
+***
+
+### **User Story: 11**
+**Usuario:** Arrendatario
+
+**Título de la Historia de Usuario:** Pago en línea
+
+**Descripción de la Historia de Usuario:** **Como** arrendatario, **quiero** poder realizar el pago del alquiler en línea proporcionando los datos necesarios y la hora de recojo del vehículo.
+
+**Criterios de Aceptación:**
+- **Dado** que he elegido el pago en línea, **cuando** selecciono "Pago Online", **entonces** se abre una ventana para ingresar los datos requeridos y la hora de recojo. Después de ingresar los datos, aparece una ventana de confirmación de pago.
+
+***
+
+### **User Story: 12**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Ver perfil
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** poder ver mi perfil de usuario en la plataforma **para** acceder y gestionar mis datos personales y de vehículos compartidos.
+
+**Criterios de Aceptación:**
+- **Dado** que soy un propietario, **cuando** accedo a mi perfil, **entonces** veo mis datos personales, la cantidad de vehículos compartidos y opciones para cambiar mi foto de perfil, actualizar mis datos y cerrar sesión.
+
+***
+
+### **User Story: 13**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Registro vehicular
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** tener la opción de registrar un vehículo para compartirlo en la plataforma.
+
+**Criterios de Aceptación:**
+- **Dado** que soy un propietario, **cuando** accedo a la sección "Registro vehicular", **entonces** ingreso los datos del vehículo como marca, modelo, velocidad máxima, etc. Al presionar el botón "Crear contrato de alquiler", se activa el botón "Registrar".
+
+***
+
+### **User Story: 14**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Generar contrato
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** generar un contrato de alquiler para el vehículo que estoy compartiendo.
+
+**Criterios de Aceptación:**
+- **Dado** que he presionado "Crear contrato de alquiler", **cuando** elijo "Generar contrato predeterminado", **entonces** se genera un contrato con condiciones generales. Después de generar el contrato, puedo presionar "Regresar al registro".
+
+***
+
+### **User Story: 15**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Subir contrato manual
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** poder subir un contrato manual en formato PDF para el vehículo que estoy compartiendo.
+
+**Criterios de Aceptación:**
+- **Dado** que he presionado "Crear contrato de alquiler", **cuando** elijo "Subir contrato manual en PDF", **entonces** puedo subir un contrato en formato PDF. Después de subir el contrato, puedo presionar "Regresar al registro".
+
+***
+
+### **User Story: 16**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Ver notificaciones
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** poder ver las notificaciones de las solicitudes generadas por los arrendatarios.
+
+**Criterios de Aceptación:**
+- **Dado** que hay notificaciones de solicitudes, **cuando** accedo a la sección "Notificaciones", **entonces** veo los datos de las solicitudes en las notificaciones predeterminadas.
+
+***
+
+### **User Story: 17**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Gestionar alquileres
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** poder gestionar los alquileres de los vehículos que he compartido.
+
+**Criterios de Aceptación:**
+- **Dado** que tengo vehículos compartidos, **cuando** accedo a la sección "Alquiler", **entonces** veo la lista de vehículos compartidos con su estatus, botón para eliminar publicación y detalles de pago. Puedo presionar un vehículo para ver las solicitudes recibidas y los detalles de los arrendatarios.
+
+***
+
+### **User Story: 18**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Verificar antecedentes penales
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** tener la opción de verificar los antecedentes penales de los arrendatarios antes de aceptar un alquiler.
+
+**Criterios de Aceptación:**
+- **Dado** que tengo solicitudes de alquiler, **cuando** accedo a la solicitud de un arrendatario, **entonces** veo la opción "Verificar Antecedentes Penales". Al presionar el botón, el estado del documento cambia a "Aceptado" o "Rechazado" según la verificación.
+
+***
+
+### **User Story: 19**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Aceptar/rechazar alquiler
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** tener la opción de aceptar o rechazar un alquiler después de revisar los antecedentes penales del arrendatario.
+
+**Criterios de Aceptación:**
+- **Dado** que he revisado los antecedentes penales, **cuando** accedo a una solicitud, **entonces** veo los botones "Aceptar Alquiler" y "Rechazar Alquiler". Al presionar "Aceptar Alquiler", el estado de pago cambia a "Pendiente" o "Pagado" si el arrendatario ya ha pagado.
+
+***
+
+### **User Story: 20**
+**Usuario:** Propietario             
+
+**Título de la Historia de Usuario:** Afiliar cuenta Banco
+
+**Descripción de la Historia de Usuario:** **Como** propietario, **quiero** tener la opción de afiliar mi cuenta bancaria para una forma de verificación de pago más sencilla.
+
+**Criterios de Aceptación:**
+- **Dado** que quiero afiliar mi cuenta bancaria, **cuando** accedo a la sección "Alquiler", **entonces** veo el botón "Afiliar cuenta Banco con MODO". Al presionar el botón, puedo completar los detalles de la cuenta y la afiliación se realiza correctamente.
+
+
+### **3.3. Impact Mapping.**
+
+![Imagen](Impact%20Mapping%20Automovile-Unit.jpg)
+
+### **3.4. Product Backlog.**
+
+| Orden | User Story ID | Título de la Historia | Descripción | Story Points (1/2/3/5/8) |
+|-------|---------------|------------------------|-------------|--------------|
+| 1     | 1             | Ver perfil             | Como arrendatario, quiero ver mi perfil de usuario en la plataforma para acceder y gestionar mis datos personales y de alquiler. | 5 |
+| 2     | 2             | Subir documentos de Antecedentes Penales | Como arrendatario, quiero tener la opción de subir documentos de antecedentes penales para validar mis datos en la plataforma de alquiler de vehículos. | 8 |
+| 3     | 3             | Buscar vehículo        | Como arrendatario, quiero tener la opción de buscar vehículos disponibles para alquilar en la plataforma. | 5 |
+| 4     | 4             | Ver contrato de alquiler | Como arrendatario, quiero tener la opción de ver el contrato de alquiler de un vehículo para decidir si proceder con el alquiler. | 5 |
+| 5     | 5             | Generar firma digital  | Como arrendatario, quiero tener la opción de generar una firma digital en el contrato de alquiler para confirmar mi aceptación. | 5 |
+| 6     | 6             | Solicitar Alquiler     | Como arrendatario, después de revisar el contrato y generar una firma digital, quiero tener la opción de solicitar el alquiler del vehículo. | 5 |
+| 7     | 7             | Ver estado de solicitudes | Como arrendatario, quiero poder ver el estado de mis solicitudes de alquiler para conocer su aprobación. | 5 |
+| 8     | 8             | Ver historial de alquiler | Como arrendatario, quiero poder ver mi historial de procesos de alquiler realizados en la plataforma. | 3 |
+| 9     | 9             | Realizar pago          | Como arrendatario, quiero poder realizar el pago del alquiler de manera efectiva o en línea. | 3 |
+| 10    | 10            | Pago en efectivo       | Como arrendatario, quiero poder realizar el pago del alquiler en efectivo y confirmar la hora de recojo del vehículo. | 5 |
+| 11    | 11            | Pago en línea          | Como arrendatario, quiero poder realizar el pago del alquiler en línea proporcionando los datos necesarios y la hora de recojo del vehículo. | 5 |
+| 12    | 12            | Ver perfil             | Como propietario, quiero ver mi perfil de usuario en la plataforma para acceder y gestionar mis datos personales y de vehículos compartidos. | 2 |
+| 13    | 13            | Registro vehicular     | Como propietario, quiero tener la opción de registrar un vehículo para compartirlo en la plataforma. | 3 |
+| 14    | 14            | Generar contrato       | Como propietario, quiero generar un contrato de alquiler para el vehículo que estoy compartiendo. | 5 |
+| 15    | 15            | Subir contrato manual  | Como propietario, quiero poder subir un contrato manual en formato PDF para el vehículo que estoy compartiendo. | 3 |
+| 16    | 16            | Ver notificaciones     | Como propietario, quiero poder ver las notificaciones de las solicitudes generadas por los arrendatarios. | 5 |
+| 17    | 17            | Gestionar alquileres   | Como propietario, quiero poder gestionar los alquileres de los vehículos que he compartido. | 5 |
+| 18    | 18            | Verificar antecedentes penales | Como propietario, quiero tener la opción de verificar los antecedentes penales de los arrendatarios antes de aceptar un alquiler. | 5 |
+| 19    | 19            | Aceptar/rechazar alquiler | Como propietario, quiero tener la opción de aceptar o rechazar un alquiler después de revisar los antecedentes penales del arrendatario. | 3 |
+| 20    | 20            | Afiliar cuenta Banco   | Como propietario, quiero tener la opción de afiliar mi cuenta bancaria para una forma de verificación de pago más sencilla. | 3 |
+
+# **CAPITULO IV: PRODUCT DESIGN**
+
+## **4.1. Style Guidelines.**
+En esta sección, establecemos las pautas de estilo que definirán los principios para crear nuestro producto desde cero. Estas directrices establecerán un estándar para la selección de tipografías, tamaños y paleta de colores necesarios para agilizar la creación del diseño de **Automovile-Unit** desde el inicio del proceso de prototipado. Estas pautas serán un recurso valioso para los miembros del equipo, ya que les brindarán una comprensión clara de cómo implementar los diferentes elementos del diseño en todas las áreas y secciones de la plataforma. Esto resultará en un ahorro significativo de tiempo y una mayor coherencia en la apariencia visual de **Automovile-Unit**.
+
+### **4.1.1. General Style Guidelines.**
+En esta sección, se revelará la selección completa de colores que hemos definido, junto con los íconos, el logo y la tipografía elegida. Estos componentes desempeñan un papel esencial en la creación de los estilos visuales que caracterizarán la apariencia de nuestra plataforma web. Cada matiz y diseño ha sido cuidadosamente seleccionado para transmitir una identidad coherente y única a lo largo de la aplicación, asegurando una experiencia visual atractiva para nuestros usuarios.
+
+<p align="center">
+  <img src="./capitulo4/imagenes_web_style_guidelines/general_style_lines.jpg" alt="Imagen centrada"/>
+
+</p>
+
+[click para verlo en figma](https://www.figma.com/file/Vzt3vQoRPZOXbziRvtRZXi/Landing-page?type=design&node-id=116%3A117&mode=design&t=meAF7ldyoprCkNWY-1)
+
+#### 4.1.2. Web Style Guidelines.
+En general, para los Lineamientos de Estilo Web, utilizaremos la fuente seleccionada en las Lineamientos de Estilo Generales: la fuente Poppins. Esta fuente se destaca por su legibilidad y estilo moderno, lo que la hace ideal para proyectos web. Además, se presenta la selección de colores para nuestra landing page y aplicación web, junto con el logotipo característico de nuestro producto, el cual no tendrá muchas variantes. También se muestran los diferentes formatos de botones que utilizaremos, así como la selección del estilo de tarjeta que aplicaremos en algunas secciones de nuestra landing page. Por último, se presenta la selección de íconos que servirán para la navegación.<p align="center">
+  <img src="./capitulo4/imagenes_web_style_guidelines/web_style_guideline.jpg" alt="Imagen centrada"/>
+
+</p>
+
+[click para verlo en figma](https://www.figma.com/file/Vzt3vQoRPZOXbziRvtRZXi/Landing-page?type=design&node-id=117%3A593&mode=design&t=meAF7ldyoprCkNWY-1)
+
+
+## **4.2. Information Architecture.**
+El objetivo principal de la arquitectura de la información es crear una estructura lógica y amigable para el usuario que les permita encontrar, comprender y navegar el contenido de manera eficiente
+#### **4.2.1. Organization Systems.**
+Como grupo, hemos llegado a la conclusión de adoptar un formato jerárquico estándar, similar al enfoque organizativo que se encuentra en la mayoría de las páginas. Este enfoque de formato puede ser descrito como:
+
+<div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
+
+* **Nombre y descripción de la startup:** En esta sección se colacará el nombre, logo y descripción de nuestra startup
+* **Acerca de nuestra solución:**
+En esta sección se describirá brevemente nue**stra solución
+* **Beneficios:** Aquí se colocarán los beneficios más llamativos de hacer uso de nuestra web application, ya sea como propietario o arrendatario.
+* **Requisitos:** Aquí se colocarán los requisitos que los usuarios deben cumplir para poder rentar o dar en alquiler algún vehículo.
+* **Link hacia la web application:**
+Nuestra landing page tiene como objetivo que el usuario visite nuestra web application y para eso usaremos
+un botón call to action con el enlace a la web application.
+* **Contacto:**
+Se presenta en la sección footer de la lading page y contendrá una dirección y algunas redes sociales.
+
+**contenido**
+
+#### **4.2.2. Labeling Systems.**
+Los "Labeling Systems" (Sistemas de Etiquetado) son un conjunto de prácticas y estrategias utilizadas para asignar nombres, etiquetas o títulos descriptivos a elementos y secciones dentro de una interfaz digital, como un sitio web, una aplicación móvil o una plataforma en línea.
+
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
+
+Resulta vital que las etiquetas presentes en la landing page no difieran de las que se describen en la estructura que previamente hemos mencionado. Este enfoque se deriva de la facilidad de navegación que nuestra landing page ofrece, gracias a su diseño de simple. Además, no se tiene la intención de incorporar múltiples opciones que requerirían, por ejemplo, un motor de búsqueda.
+
+
+### **4.2.3. SEO Tags and Meta Tags**
+
+Las "SEO tags" y "meta tags" son elementos HTML utilizados en el código de una página web para proporcionar información adicional sobre el contenido de la página a los motores de búsqueda y a los usuarios.
+
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
+
+**SEO Tags:**
+* Title Tag:
+~~~
+<title>Automovil-Unit</title>
+~~~
+
+* Meta Description Tag:
+~~~
+<meta name="description" content="Explora la comodidad y la libertad de alquilar vehículos con Automovil-Unit. Ofrecemos una amplia gama de opciones de alquiler de autos para satisfacer tus necesidades de viaje. Descubre tarifas competitivas, modelos modernos y un proceso de reserva fácil. ¡Emprende tu próximo viaje con confianza alquilando un vehículo con nosotros!">
+~~~
+
+
+**Meta Tags:**
+
+* Charset Meta Tag:
+~~~
+<meta charset="UTF-8">
+~~~
+
+* Viewport Meta Tag:
+~~~
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+~~~
+
+* Author Meta Tag:
+~~~
+<meta name="author" content="Speed-Drivingun">
+~~~
+
+* Keywords Meta Tag (opcional):
+~~~
+<meta name="keywords" content="Alquiler de autos en Lima,
+Rentar vehículos,
+Arriendo de coches,
+Autos de alquiler,
+Alquiler de carros,
+Vehículos en alquiler,
+Rent a car Lima">
+~~~
+
+
+### **4.2.4. Searching Systems.**
+Estos sistemas están diseñados para ayudar a los usuarios a encontrar rápidamente datos, productos, servicios o cualquier tipo de contenido que satisfaga sus necesidades y consultas.
+
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
+
+No aplicamos sistemas de búsqueda ya que no le consideramos conveniente, ya que la landing page no cuenta con servicios complejos ni tampoco una gran cantidad de información como para implementar algún sistema de búsqueda. 
+
+
+### **4.2.5. Navigation Systems.**
+
+Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias y elementos utilizados en un diseño web o interfaz para guiar a los usuarios a través de la estructura y el contenido de un sitio web, aplicación u otra plataforma digital. Estos sistemas están diseñados para hacer que la navegación sea más intuitiva, eficiente y agradable para los usuarios, permitiéndoles encontrar la información que buscan y moverse entre diferentes secciones con facilidad.
+
+ <div align="center" style="{}" >
+  <strong>Landing page</strong>
+</div>
+
+1. **Barra de Menú Superior:**
+En la parte superior de la página, encontrarás una barra de menú que te permite navegar directamente a las diferentes secciones clave. Los enlaces en el menú te llevarán a **"Inicio", "Acerca de", "Beneficios", "Requisitos", "Preguntas Frecuentes" y "Contacto".**
+
+2. **Navegación a través de Botones:**
+En la sección de "Inicio", un botón "Regístrate" te llevará directamente a la web application. Esto garantiza una navegación rápida hacia la acción principal que deseamos que los usuarios tomen.
+
+3. **Footer - Navegación Rápida:**
+En la parte inferior de la página, el footer incluye una sección de navegación rápida. Aquí encontrarás botones que te llevarán a las secciones clave, como **"Inicio", "Acerca de", "Beneficios", "Requisitos", "Preguntas Frecuentes" y "Contacto".**
+
+4. **Scroll Suave:**
+Implementa un scroll suave para que, al hacer clic en un enlace del menú o un botón en el footer, los usuarios sean llevados suavemente a la sección correspondiente en lugar de un salto abrupto.
+
+5. **Navegación a Través de Carrusel:**
+En la sección de "Beneficios", usa un carrusel para resaltar diferentes ventajas y para que los usuarios puedan explorar cada beneficio de manera ordenada.
+
+6. **Dropdown para Requisitos:**
+En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arrastrar hacia abajo para revelar los requisitos necesarios. Este enfoque de navegación creativa añade interacción a la página.
+
+
+**contenido**
+
+
+## **4.3. Landing Page UI Design.**
+### **4.3.1. Landing Page Wireframe.**
+
+ <div align="center" style="{}" >
+  <strong>Landing page para Desktop Web Browser</strong>
+  <img src="./capitulo4/landing_page_wireframes/desktop/Landing page.jpg" alt="Imagen centrada"/>
+</div>
+
+ <div align="center" style="{}" >
+  <strong>Landing page para Mobile Web Browser</strong>
+  <img src="./capitulo4/landing_page_wireframes/movile/Landing page_wireframe_movil_page-0002.jpg"/>
+</div>
+</div>
+
+
+### **4.3.2. Landing Page Mock-up.**
+
+
+  <div align="center" style="{}" >
+  <strong>Landing page para Desktop Web Browser</strong>
+   <img src="./capitulo4/landing_page_mockups/desktop/Landing_page.jpg" alt="Imagen centrada"/>
+</div>
+
+ <div align="center" style="{}" >
+  <strong>Landing page para Mobile Web Browser</strong>
+   <img src="./capitulo4/landing_page_mockups/movile/ilovepdf_page_movil_mockup_page-0001.jpg"/>
+</div>
+
+## **4.4. Web Applications UX/UI Design.**
+
+### **4.4.1. Web Applications Wireframes.**
+
+**NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:**
+
+**ARRENDATARIO (Persona que va a alquilar un auto):**
+
+
+**PERFIL DE USUARIO:** Aqui el usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario también podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+El botón mas importante en esta sección es el botón de **Subir documentos de Antecendente Penales**. Al presionar este botón podra subir desde su ordenador los documentos necesarios para validar sus datos. Luego se subirlo el boton cambiará a **Actualizar documentos de Antecendente Penales**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi7.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/perfi8.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Acceder** , si no esta registrado, debera presionar el botón **Inscríbete**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/login.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/registro.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**INICIO:** Aqui el usuario  encontrara toda las opciones posibles de la plataforma , además encontrara posibles herramientas adicionales que le puedan servir. Dentro de esta ventana estará la opcion de **Buscar coche** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Buscar Auto** , **Mantenimiento** , **Alquilar**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/inicio.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**BUSCAR AUTOS:** Aqui el usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón **Buscar** para iniciar con la búsqueda, inmediatamente aparecerá el resultado de la búsqueda  como datos del vehiculo  , datos del propietario del vehículo y el estatus del anuncio (Disponible o No Disponible). Dentro de la busqueda estará el botón de **Ver contrato de alquiler**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+EL usuario debe verificar el contrato de Alquiler  que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón **Generar firma digital** y luego presionar el botón **Solicitar Alquiler** para que se envie una solicitud al propietario del vehículo con propósito de alquiler.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+  
+**MANTENIMIENTO:** Aqui el usuario podra enviar un mensaje directamente al correo electrónico del propietario delvehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debe ingresar los datos requeridos y presionar el botón **Enviar**.  
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/mante1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/mante2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/mante3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/mante4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/mante5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**SOLICITUDES:** Aqui el usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de **Pagar**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/soli1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/soli2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**ALQUILER:** Aqui el usuario podra ver  toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de **Pagar**.También se puede agregar otro vehículo presionando el botón **Agregar otro vehículo**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/alqui3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+
+ Luego de presionar el botón **Pagar** se abrira otra ventana para relaizar el pago dentro de esta ventana, se encontrara 2 opciones de pago : EFECTIVO y ONLINE.Dentro de esta ventana también estara dicponible los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
+ <p align="center">
+ <img src="./capitulo4/imagenes_web_desing/pago1.png" alt="Imagen centrada" width="700" height="500"/>
+ <p>
+ 
+ 
+  Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana de Confirmación de Pago.
+<p align="center">
+  <img src="./capitulo4/imagenes_web_desing/pagoefe1.png" alt="Imagen centrada" width="700" height="500"/>
+  <p>
+<p align="center">
+  <img src="./capitulo4/imagenes_web_desing/pagoefe2.png" alt="Imagen centrada" width="700" height="500"/>
+  <p>
+  
+  
+  
+<p align="center">
+  <img src="./capitulo4/imagenes_web_desing/pagoon1.png" alt="Imagen centrada" width="700" height="500"/>
+  <p>
+<p align="center">
+  <img src="./capitulo4/imagenes_web_desing/pagoon2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**---------------------------------------------------------**
+**PROPIETARIO (Persona que comparte su auto para alquiler):**
+
+**PERFIL DE USUARIO:** Aqui el usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario también podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/properfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/properfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/properfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/properfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/properfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Acceder** , si no esta registrado, debera presionar el botón **Inscríbete**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/prologin.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proregistro.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**INICIO:** Aqui el usuario  encontrara toda las opciones posibles de la plataforma , además encontrara posibles herramientas adicionales que le puedan servir como por ejemplo visualizacion de notificaciones recientes. Dentro de esta ventana estará la opcion de **Compartir tu auto** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Registro vehicular* , **Notificaciones** , **Alquiler**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proinicio.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**REGISTRO DE VEHÍCULO :** Aqui el usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.  
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proregistrovehi2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en la cual el usuario podrá presionar el botón **Generar contrato predeterminado** y **Subir contrato manual en PDF**.
+Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato predeterminado con condiciones generales .Luego de generado deberá presionar el botón **Subir contrato**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/provehi3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/provehi4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/provehi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+Al presionar **Subir contrato manual en PDF** aparecera una ventana para que pueda subir los documentos en PDF se generara automáticamente un contrato predeterminado con condiciones generales .Luego de generado deberá presionar el botón **Subir contrato**.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/subircontrato1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/subircontrato2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/provehi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+
+Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de **Regresar al registo** , que sirve como redireccionamiento para la ventana principal del REGISTO DEL VEHÍCULO.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/provehi6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+
+
+**NOTIFICACIONES:** Aqui el usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.Al presionar en la notificación predeterminada aparecerá los datos de la solicitud.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/pronotifi.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**ALQUILER:** En esta ventana estarán todos los autos que se hayan compartido,también se podrá ver el estatus del alquiler , boton de eliminar publicación y si ya esta como Pagado también podrá ver la hora del recojo del vehículo que el arrendatario ha indicado. , dentro de esta estará disponible también el botón de **Afiliar cuenta Banco con MODO** , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para es auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud  aparecerá los datos de la persona que quiere alquilar el auto .Dentro de esta ventana el usuario que es el propietario del vehículo podrá ver los antecedente penales del arrendatario presionando el botón **Verificar Antecedente penales**, al ser verificado aparecerá al costado del botón si el documento fue Aceptado o Rechazado.
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui5.png" alt="Imagen centrada" width="700" height="500"/> 
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha pagado el alquiler.
+ 
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui7.png" alt="Imagen centrada" width="700" height="500"/> 
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_desing/proalqui8.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+
+#### 4.4.2. Web Applications Wireflow Diagrams.
+Link de Wireflow Diagrams en Figma para una mejor observación:
+
+[Clic al link](https://www.figma.com/file/7zYWV8Z36hr9JUspZaTfy0/wireflow?type=design&node-id=0%3A1&mode=design&t=9VHysS0oWyswv5uB-1)
+
+Link de Prototipo Interactivo en Figma: 
+
+[Clic al link](https://www.figma.com/proto/SLivQnDeKYJalrqtf80doC/web-application?type=design&node-id=1-5&t=BneI2Km1Jq6HF98Y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=51%3A138&show-proto-sidebar=1&mode=design)
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/principal2.svg" alt="Imagen centrada" width="900" height="700"/>
+<p>
+
+#### **4.4.3. Web Applications Mock-ups.**
+
+**Mock-up de interfaz de usuario arrendatario**
+
+**LOGIN**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/login.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**REGISTRO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/registro.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**INICIO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/inicio.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**BUSCAR AUTOS**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/buscar5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/buscar6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**ALQUILER**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pago efectivo.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pago efectivo2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pago online.png" alt="Imagen centrada" width="700" height="900"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pago online2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**SOLICITUDES**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/soli1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/soli2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**MANTENIMIENTO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/mante1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/mante2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/mante3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/mante4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/mante5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/mante6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**PERFIL DE USUARIO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi7.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/perfi8.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Mock-up de interfaz de usuario propietario**
+
+**LOGIN**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/prologin.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**REGISTRO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistro.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**INICIO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proinicio.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**REGISTRO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi7.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi8.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi9.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proregistrovehi10.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**ALQUILER**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui7.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui8.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/proalqui9.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**NOTIFICACIONES**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pronotifi.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**PERFIL DE USUARIO**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/properfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/properfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/properfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/properfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/properfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+
+#### **4.4.4. Web Applications User Flow Diagrams.**
+
+Link para mejor visualización 
+[Clic al link](https://miro.com/welcomeonboard/VlFRY0Y2OTVrYjBIaG1EbG5yNDJEeG9NT1A2NnpsREF4Sm1mYWtVc3dXMTUxdXdneEc0QUJlNGRSRHdRMmpJMXwzNDU4NzY0NTM4Mzk4OTYxMTY0fDI=?share_link_id=459568161309)
+
+**USUARIO (Arrendatario)**
+
+*INICIO DE SESIÓN*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arreinicio.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** Como usuario quiero poder iniciar sesión de manera sencilla.
+
+**Happy paths:** El usuario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El usuario quiere iniciar sesión sin completar los campos correspondientes.
+
+*REGISTRO*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arreregistro.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** Como usuario quiero poder registrarme y luego acceder a la plataforma.
+
+**Happy paths:** El usuario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El usuario quiere registrarse sin completar los campos correspondientes.
+
+*INICIO PRINCIPAL*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arreiniciopri.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
+
+**Happy paths:** El usuario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles. 
+
+**Unhappy paths:** El usuario presiona alguna herramienta externa de la plataforma , como por ejemplo el anuncio de accesorios para conducir.
+
+*BUSCAR AUTOS*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arrebuscar.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero poder buscar cualquier auto de mi interés.
+
+**Happy paths:** El usuario al iniciar puede filtrar su búsqueda para mejores opciones.
+
+**Unhappy paths:** El usuario revisa el contrato publicado por el propietario.
+
+*MANTENIMIENTO*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arremante.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
+
+**Happy paths:** El usuario también puede subir fotos para un mejor detalle.
+
+**Unhappy paths:** El mensaje del usuario  llega al correo del propietario y a la sección de notificaciones del propietario.Para una mejor comunicación debellamar por celular o teléfono al propietario.
+
+*ALQUILER*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arrealqui.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
+
+**Happy paths:** El usuario  puede pagar el alquiler luego de ser aceptado por efectivo o de manera online.
+
+**Unhappy paths:** El usuario debe registrar sus datos bancarios  para efectuar el pago correpondiente.
+
+*SOLICITUDES*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arresoli.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero ver el estado de las solicitudes que he enviado.
+
+**Happy paths:** El usuario  puede ver el estatus de su solicitud , realizar el pago presionando el botón de PAGAR.
+
+**Unhappy paths:** El usuario puede volver a la página anterior presionando la flecha superior  izquierda en dirección de la izquierda.
+
+*PERFIL DE USUARIO*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/arreperfi.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales de manera sencilla.
+
+**Happy paths:** El usuario puede actualizar sus datos u cambiar su foto de perfil.
+
+**Unhappy paths:** El usuario debe subir sus documentos de antecedente penales.
+
+------------------------------------------
+
+**USUARIO (Propietario)**
+
+*INICIO DE SESIÓN*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/proinicio.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** Como usuario quiero poder iniciar sesión de manera sencilla.
+
+**Happy paths:** El usuario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El usuario quiere iniciar sesión sin completar los campos correspondientes.
+
+*REGISTRO*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/proregis.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** Como usuario quiero poder registrarme y luego acceder a la plataforma.
+
+**Happy paths:** El usuario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El usuario quiere registrarse sin completar los campos correspondientes.
+
+*INICIO PRINCIPAL*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/proiniciopri.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
+
+**Happy paths:** El usuario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles. 
+
+**Unhappy paths:** El usuario presiona alguna herramienta externa de la plataforma , como por ejemplo el anuncio de accesorios para conducir.
+
+*REGISTRAR VEHÍCULOS*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/proregisvehi.jpg" alt="Imagen centrada" width="700" height="750"/>
+<p>
+
+**User goal:** : Como usuario, quiero poder registrar mi vehículo de manera sencilla. 
+
+**Happy paths:** El usuario ingresa todos los datos necesarios para el registro.
+
+**Unhappy paths:** El usuario crea el contrato siguiendo los pasos necesarios.
+
+*NOTIFICACIONES*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/pronotifi.jpg" alt="Imagen centrada" width="700" height="300"/>
+<p>
+
+**User goal:** : Como usuario, quiero ver todas las notificaciones de manera sencilla.
+
+**Happy paths:** El usuario al presionar Ver solicitud es redireccionado a la ventana de Alquiler para ver las solicitudes disponibles.
+
+**Unhappy paths:** El usuario observa que las notificaciones son de contenido corto.
+
+*ALQUILER*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/proalqui.jpg" alt="Imagen centrada" width="700" height="600"/>
+<p>
+
+**User goal:** : Como usuario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y ademá poder verificar sus antecedentes penales.
+
+**Happy paths:** El usuario puede verificar los antecedentes penales del arrendatario.
+
+**Unhappy paths:** El usuario acepta o rechaza la solicitud del arrendatario.
+
+*PERFIL DE USUARIO*
+<p align="center">
+<img src="./capitulo4/imagenes_web_user_flow/properfil.jpg" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**User goal:** : Como usuario, quiero ver mis datos y actualizarlos de manera sencilla.
+
+**Happy paths:** El usuario puede actualizar sus datos y cambiar su foto de perfil.
+
+**Unhappy paths:** El usuario puede cerrar sesión presionando el botón CERRAR SESIÓN.
+
+
+## **4.5. Web Applications Prototyping.**
+
+### **4.5.1 Mobile Web Browser Prototyping.**
+<p style="text-align: justify;">
+
+Se desarrollo el prototipo para aplicaciones móviles, analizando el Wireflow
+Diagrams y el User Flow Diagrams.
+El prototipo
+recrea de manera fiel el sistema de navegación que se planteó en la arquitectura de información
+añadiendo las mejoras necesarias.
+</p>
+
+**Screenshot**
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pantalla_mock.png" alt="Imagen centrada" width="700" height="400"/>
+<p>
+
+Enlace presentación: 
+[clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EaMval6iqItKgLklpfsOtj4B8Ren21rBxw7iBl3yQhbALA?e=cVCkxY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EUoUQURFA_xJnqRqzHD9Y88BVkaI4DzmnzfUsZ2h9dUp1g?e=1p8ptK)
+
+Figma: [clic al link](https://www.figma.com/file/zgynlkWf61EGL7k3WX03tu/web-application-2mobile?type=design&node-id=0%3A1&mode=design&t=ghvPJN4UoU3aot9b-1)
+
+### **4.5.1 Desktop Prototyping.**
+**Screenshot**
+
+<p align="center">
+<img src="./capitulo4/imagenes_web_mock/pantalla_mock_deskotp.png" alt="Imagen centrada" width="700" height="400"/>
+<p>
+
+Enlace presentación: 
+[clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/ETs1Z1wOZstDkcZFkE06xZsBG0Jz9cCRJlyL5t4Khe2hwg?e=pnFfrs&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EaXTOhDRALRCsQau7ileDNUBKyEfn8oDrId1HFzu4XSk5w?e=sB1ARg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Figma: [clic al link](https://www.figma.com/file/SLivQnDeKYJalrqtf80doC/web-application?type=design&node-id=0%3A1&mode=design&t=eFp3OdVf6Xs5nlfK-1)
+
+## **4.6. Domain-Driven Software Architecture.**
+### **4.6.1. Software Architecture Context Diagram.**
+<p align="center">
+<img src="./capitulo4/imagenes_context/ContextDiagram.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+### **4.6.2. Software Architecture Container Diagrams.**
+<p align="center">
+<img src="./capitulo4/imagenes_context/ContainerDiagram.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+### **4.6.3. Software Architecture Components Diagrams.**
+
+**Diagrama de Componentes de Seguridad**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteSeguridad.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componentes de Registro Vehicular**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteRegistroVehi.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componentes de Búsqueda Vehicular**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteBusqueda.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componente Solicitud**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteSolicitud.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componente Perfil**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponentePerfil.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componente Notificaciones**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteNotificacion.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componente Mantenimiento**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteMante.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+**Diagrama de Componente Alquiler**
+
+<p align="center">
+<img src="./capitulo4/imagenes_context/ComponenteAlqui.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+Link del proyecto en Structurizr: [clic al link](https://structurizr.com/share/77352/f19c7985-7fea-42e8-803a-81462791f322)
+
+
+## **4.7. Software Object-Oriented Design.**
+### **4.7.1. Class Diagrams.**
+
+**DIAGRAMA DE CLASES**
+<p align="center">
+<img src="./capitulo4/imagenes_diagramas/Diagrama de clases final de Automovile-unit.png" alt="Imagen centrada" width="700" height="500"/>
+<p>
+
+Link del diagrama de clases en Lucichart: [clic al link](https://lucid.app/lucidchart/30395744-9daf-4636-86e1-8d728528111d/edit?viewport_loc=644%2C654%2C2220%2C1026%2C0_0&invitationId=inv_0f673416-c1be-4d72-a203-972f3aaf82b8)
+
+### **4.7.2. Class Dictionary.**
+
+**Diccionario de Clases**
+
+| **Nombre de Clase** | **Descripción**     | 
+| -------  | --------------------------------- |
+| Usuario   | Usuario que ocupa el sistema    | 
+| Alquiler   | Proceso mediante el cual dos partes efectúan la cesión temporal de un bien o servicio a cambio de una contraprestación que generalmente es de tipo económico.    | 
+| Cuenta | Cuenta del usuario |
+| Perfil  | Perfil del usuario |
+| Pago | Pago a efectuarse para el alquiler |
+| Tarjeta | Tarjeta bancaria |
+| Mantenimiento | Conjunto de mensajes a efectuarse por el arrendatario  |
+| Registro   | Registrar datos del vehiculo a alquilar   |
+| Busqueda  | Buscar vehiculo a alquilar  |
+| Vehículo | Objeto mecánico a alquilar  |
+| Contrato | Documento para alquiler |
+| Notificaciones  | Mensajes a recibir por propietario  |
+| Solicitudes  | Pedido de alquiler de vehículo  |
+| Foto | Fotos a subir  |
+| Documentos | Documentos a subir |
+
+
+## **4.8. Database Design.**
+### **4.8.1. Database Diagram.**
+
+<p align="center">
+<img src="./capitulo4/imagenes_diagramas/Database_Automovile_unit-2023-09-01_10-10.png"Imagen centrada" width="700" height="500"/>
+<p>
+
+Link del Database Diagram en Vertabelo: [clic al link](https://my.vertabelo.com/doc/Sj9rOshzIBVBRiV70o4PwTA48p96ponL)
+
+
+# **CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT**
+
+## **5.1. Software Configuration Management.**
+Para este proyecto nos hemos especificado en diferentes programas que nos ayudaran a la organización en el apartado visual, gráfico y con el sistema de codificación de todo el equipo y la forma en la cual lo implementaremos.
+### **5.1.1. Software Development Environment Configuration.**
+Para la realización de este proyecto nos hemos enfocado en tener una realización mutua del trabajo a través de diferentes programas y a su vez la utilización de herramientas que aportan al avance de las pautas del proyecto.
+##### Proyect Managemnent:
+Para Organizar todas las actividades que necesitamos realizar y prototipos de ideas e implementaciones nuevas a nuestro proyecto hemos decidido utilizar Google drive y hasta visual studio code que nos ayudará de guia para continuar con la documentación del informe.
+##### Requirement Management:
+Luego de que todos los integrantes han realizado la parte correspondiente a su cargo, se da la respectiva revisión general de cada parte del informe para identificar posibles errores o pautas faltante.
+##### Product UX/UI design:
+En el caso del prototipo de nuestra Landing Page hemos utilizado la herramienta de diseño "Figma", dicha herramienta nos facilita con el diseño e implementación de la Landing Page y sus derivados.
+Link: https://www.figma.com
+##### Software Development:
+Para el apartado visual y tipeado de nuestro informe, se ha utilizado visualStudioCode junto con Markdown, la cual es un lenguaje de documentación al estilo de Microsoft Word. Tambien se utilizó VS Code para para la codificación de la landing Page.
+Link: https://code.visualstudio.com
+##### Software Documentation:
+El proyecto, documentación e informe este alojado en el famoso "GitHub" herramienta que nos facilita a trabajar en conjunto y con una productividad amena para así facilitar el hecho de cuanto trabajo o cuanto porcentaje de eficacia estamos teniendo con el avance del proyecto.
+Link: https://github.com
+### **5.1.2. Source Code Management.**
+URL del Repositorio de GitHub para la Landing Page.
+Landing Page:
+##### GitFlow
+La metodología GitFlow es un modo de trabajo de método en flujo la cual es aplicado en un repositorio de git, esto nos permite ver quien está actualizando y realizando acciones dentro del repositorio, junto a esto con las opciones de reparar y realizar mantenimiento al repositorio de forma continua.
+##### Main Branch
+Es dicha rama que se genera por defecto en nuestro repositorio.
+##### Master Branch
+Es la rama que contiene a las versiones mas estables de nuestro proyecto.
+##### Develop Branch
+Es la rama la cual contiene nuestro codigo en version de plan y a la cual le incluimos las caracteristicas en estilo a la Landing Page.
+##### Feature Branch
+Es las Branch que manejan cada integrante de nuestro grupo "rama-(nombre del integrante)" esto para facilitar las divisiones y tener una avance continuo del proyecto.
+### **5.1.3. Source Code Style Guide & Conventions.**
+##### GitHub
+Cada integrante del grupo tiene creado su propia rama en la cual establece la función de avance y establecer un trabajo continuo fácil de monitorear.
+##### HTML
+Utilizamos el lenguaje de HTML para la implementación base de nuestra Landing Page en la cual nos enfocaremos en las primeras funcionalidades de presentación de nuestro proyecto y asi tambien lograr una mejor configuración al usar los otros lenguajes de diseño.
+### **5.1.4. Software Deployment Configuration.**
+Se crea un repositorio remoto de trabajo en GitHub.
+<p align="center">
+  <img src="./capitulo5/imgs/crear-repository.PNG" alt="Imagen centrada"/>
+</p>
+así haciendo esto procedemos a entrar a la visual donde podemos editar con los comandos "git" las diferentes funcionalidades como el "git init" para inicializar el repositorio local.
+Ya teniendo esto podemos subir los archivos al GitHub para una mayor facilidad de controlar el avance mutuo entre nosotros. en nuestro caso usamos la terminal del VisualStudioCode, junto con la posibilidad de usar git dentro de esta.
+Luego nos dirigimos al repositorio remoto de GitHub.
+Para activar nuestra página vamos al apartado de Settings y buscamos en donde está la configuración en donde desplegar la página de la landing Page, en nuestro caso vamos a desplegarlo en el main pero esta vez hemos probado desplegándolo en nuestro Branch "DEVELOP".
+
+<p align="center">
+  <img src="./capitulo5/imgs/linkcrear.PNG" alt="Imagen centrada"/>
+</p>
+Luego en la misma seccion de Settings ya tendríamos nuestro link creado en el apartado de "Environments".
+<p align="center">
+  <img src="./capitulo5/imgs/linkcreado.PNG" alt="Imagen centrada"/>
+</p>
+Link de la Landing Page: 
+
+https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+
+
+## **CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT**
+
+### **5.2. Landing Page, Services & Applications Implementation.**
+#### **5.2.1. Sprint 1**
+##### **5.2.1.1. Sprint Planning 1.**
+<p align="center">
+  <img src="./capitulo5/imgs/delinforme.PNG" alt="Imagen centrada"/>
+</p>
+Link de Trello del informe: 
+
+ https://trello.com/b/bwGqN1z7/tb1-semana-4 
+
+<hr>
+
+<p align="center">
+  <img src="./capitulo5/imgs/delalanding.PNG" alt="Imagen centrada"/>
+</p>
+Link de Trello de Landing Page:
+
+
+https://trello.com/b/2Stqn5Ye/landing-page
+
+
+
+
+##### **5.2.1.2. Sprint Backlog 1.**
+
+| Funcionalidad | ID | Título de la Funcionalidad | Estimación (en horas) | Asignado a | Estado |
+| --- | --- | --- | --- | --- | --- |
+| Ver Perfil de Usuario | 1 | Ver perfil | 3 horas | Baldeon Fabian, Aldo Alberto | Hecho |
+| Subir Documentos de Antecedentes Penales | 2 | Subir documentos de Antecedentes Penales | 1 horas | Herrera Del Pino, Josehp Piero | Hecho |
+| Buscar Vehículo | 3 | Buscar vehículo | 2 horas | Rengifo Mirabal, Randy Becker | Hecho |
+| Ver Contrato de Alquiler | 4 | Ver contrato de alquiler | 3 horas | Ruiz Torres, Erick Hernan | Hecho |
+| Generar Firma Digital | 5 | Generar firma digital | 2 horas | Salas Pujay, Mauricio Alberto | Hecho |
+
+##### **5.2.1.3. Development Evidence for Sprint Review.**
+| Repository         | Branch | Commit ID                           | Commit Message                         | Commit Message Body | Committed on Date   |
+|--------------------|--------|------------------------------------|----------------------------------------|---------------------|--------------------|
+| AutoMovile-Unit    | main   | 5ea4cd4057c962580ca2a82a361d6d78642db1b1 | Implementación de la sección de Inicio. | -                   | 1 de septiembre de 2023 |
+| AutoMovile-Unit    | main   | 6f45b878ecbafe6d25c4cf5fb63efbf7ef63d452 | Agregado de la sección Acerca de.       | -                   | 2 de septiembre de 2023 |
+| AutoMovile-Unit    | main   | 3b07df3e6952b58541081096b30b1a9dfe0f9c64 | Diseño de la sección de Nosotros.       | -                   | 4 de septiembre de 2023 |
+| AutoMovile-Unit    | main   | 2a0b137ea8703e5efb77a5b8a1c41bc51ab3c774 | Integración de la sección Acerca de.     | -                   | 5 de septiembre de 2023 |
+| AutoMovile-Unit    | main   | 98f5e72856d775b78f4936e470c7c34f74fbf4a8 | Desarrollo de la funcionalidad de generación de firma digital. | - | 6 de septiembre de 2023 |
+
+##### **5.2.1.4. Testing Suite Evidence for Sprint Review.**
+En esta parte sabemos que hemos desarrollado solo el apartado de la Landing Page de la Aplicación Web, la cual esta parte por ahora será obviada por esta vez. De esta manera podemos hacer test para que en una siguiente entrega podamos dar una mejor experiencia.
+##### **5.2.1.5. Execution Evidence for Sprint Review.**
+En esta entrega nos enfocamos en el desarrollo total de la Landing Page y poder desplegarlo para que a partir de ahi poder crear e implementar las diferentes funcionalidades que tenemos pensadas. La landing page creada habla sobre como nuestra Aplicación Web tendrá el impacto en el mundo automovilístico para generar una repercusión en la compra, venta y alquiler de vehículos
+
+<p align="center">
+  <img src="./capitulo5/imgs/landing1.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+<p align="center">
+  <img src="./capitulo5/imgs/landing2.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+<p align="center">
+  <img src="./capitulo5/imgs/landing3.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+<p align="center">
+  <img src="./capitulo5/imgs/landing4.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+
+##### **5.2.1.6. Services Documentation Evidence for Sprint Review.**
+Nuestro proyecto, denominado AutoMovile-Unit, es una plataforma en línea que permite el alquiler de vehículos entre propietarios y arrendatarios. Para la creación de esta plataforma, hemos utilizado una serie de tecnologías y herramientas clave.
+**HTML (HyperText Markup Language)**
+Hemos utilizado HTML para estructurar el contenido de nuestra página web. HTML nos ha permitido crear una estructura sólida y semántica para nuestra plataforma.
+**CSS (Cascading Style Sheets)**
+CSS se ha utilizado para dar estilo y diseño a nuestra plataforma. Hemos creado hojas de estilo CSS para mejorar la presentación visual y la experiencia del usuario.
+**JavaScript**
+JavaScript se ha implementado para agregar interactividad a la plataforma. Para esta ocasión la utilizamos como método de conectar todo el apartado visual de la Landing Page.
+**Git**
+Git es nuestro sistema de control de versiones principal. Lo hemos utilizado para rastrear y gestionar cambios en nuestro código a lo largo del desarrollo del proyecto.
+**GitHub**
+Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. GitHub también nos ha brindado una plataforma para revisar y discutir problemas y solicitudes de incorporación de cambios.
+**GitHub Pages**
+GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. Esto nos permite mostrar y compartir nuestra plataforma en línea con el público.
+##### **5.2.1.7. Software Deployment Evidence for Sprint Review.**
+Para esta entrega logramos cumplir la implementación de la landing Page donde se encuentra la información detallada de nuestra StartUp.
+Presentamos:
+URL (Link desplegado de Landing Page(AutoMovil-Unit)): 
+
+
+https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+
+##### **5.2.1.8. Team Collaboration Insights during Sprint.**
+<p align="center">
+  <img src="./capitulo5/imgs/pull.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+<p align="center">
+  <img src="./capitulo5/imgs/contri.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+
+<p align="center">
+  <img src="./capitulo5/imgs/commit.PNG" alt="Imagen centrada"/>
+</p>
+<hr>
+
+
+### CONCLUSIONES
+- Potencial de Mercado Prometedor: La startup tiene un potencial de mercado significativo en Perú, aprovechando la subutilización de vehículos particulares y la necesidad de soluciones de alquiler de vehículos más convenientes y accesibles.
+- Contribución a la Movilidad Sostenible: Automovile-Unit tiene el potencial de contribuir a la reducción de la congestión vial y fomentar prácticas de movilidad más sostenibles al optimizar el uso de vehículos existentes.
+- Generación de Ingresos Adicionales: La plataforma ofrece a los propietarios de vehículos la oportunidad de generar ingresos adicionales alquilando sus vehículos cuando no los utilizan, lo que puede ser un incentivo atractivo.
+- Desafíos de Seguridad y Confianza: Un desafío importante es establecer medidas de seguridad y confianza sólidas para garantizar que tanto los propietarios como los arrendatarios se sientan cómodos participando en la plataforma.
+- Diferenciación Competitiva: Automovile-Unit debe enfocarse en la diferenciación competitiva, ofreciendo características y servicios únicos que la distingan de otras plataformas de alquiler de vehículos.
+- Fomentar la Comunicación y la Evaluación Continua: La comunicación clara entre propietarios y arrendatarios, así como la evaluación continua de la calidad del servicio y las políticas, serán clave para el éxito a largo plazo de la startup.
+
+### ANEXOS
+
+- **Links del Figma:** 
+- https://www.figma.com/file/Vzt3vQoRPZOXbziRvtRZXi/Landing-page?type=design&node-id=116%3A117&mode=design&t=meAF7ldyoprCkNWY-1
+- https://www.figma.com/file/Vzt3vQoRPZOXbziRvtRZXi/Landing-page?type=design&node-id=117%3A593&mode=design&t=meAF7ldyoprCkNWY-1
+
+- **Link del Trello:**  https://trello.com/b/bwGqN1z7/tb1-semana-4 
+https://trello.com/b/2Stqn5Ye/landing-page
+- **Link del GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4
+- **Link del Informe en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Informes-de-Trabajos
+- **Link del GitHub de la Landing Page:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Landing-page
+- **Link de la Landing Page:** https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+
+## Bibliografía
+- HTML: HyperText Markup Language | MDN. (2023, July 17). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/HTML
+- JavaScript | MDN. (2023, July 8). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- CSS: Cascading Style Sheets | MDN. (2023, July 22). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/CSS
+
+‌
+‌
+
+‌
