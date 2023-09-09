@@ -38,7 +38,15 @@
 
 
 ## Project Report Collaboration Insights
-**AQUI VA ALGO**
+
+ <p align="center">
+<img src="./commits.jpg" alt="Imagen centrada" width="700" height="400"/>
+<p>
+
+<p align="center">
+<img src="./commits2.jpg" alt="Imagen centrada" width="700" height="400"/>
+<p>
+
 ## **Contenido**
 ### CAPÍTULO I: INTRODUCCIÓN
 - [1.1 Startup Profile]
