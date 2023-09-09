@@ -151,6 +151,11 @@ Automovile-Unit surgio apartir de la idea de aprovechar los vehículos que no es
 
 **Baldeon Fabian, Aldo Alberto:**
 
+<div style="float: right; margin-left: 20px;">
+  <img src="https://media.discordapp.net/attachments/991473069942120498/1142581333189722212/xd.jpg?width=438&height=584" alt="FOTO ALDO" width="200px">
+</div>
+Me encuntro cursando el quinto ciclo de la carrera de Ingeniería de Software en la UPC. Escogí esta carrera es porque me intereso el desarrollo de aplicaciones y el desarrollo web. Me gusta ser responsable y trabajar en equipo. Tengo conocimientos básicos en C#, java, JavaScript, HTML y CSS. También poseo conocimientos intermedios en C + +, SQL y MongoDB, además de cuento con experiencia en Git y GitHub.<br><br>
+
 **Herrera Del Pino, Josehp Piero:**
 
 <div style="float: right; margin-left: 20px;">
