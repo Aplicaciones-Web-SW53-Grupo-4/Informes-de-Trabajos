@@ -44,11 +44,11 @@
 ## Project Report Collaboration Insights
 
  <p align="center">
-<img src="images/caratula/commits.jpg" alt="Imagen centrada" width="700" height="400"/>
+<img src="/images/caratula/commits.jpg" alt="Imagen centrada" width="700" height="400"/>
 <p>
 
 <p align="center">
-<img src="images/caratula/commits2.jpg" alt="Imagen centrada" width="700" height="400"/>
+<img src="/images/caratula/commits2.jpg" alt="Imagen centrada" width="700" height="400"/>
 <p>
 
 ## **Contenido**
@@ -163,7 +163,7 @@ Me encuntro cursando el quinto ciclo de la carrera de Ingeniería de Software en
 **Herrera Del Pino, Josehp Piero:**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="images/images-cap-I/Foto-Josehp.png" alt="FOTO JOSEHP" width="200px">
+  <img src="/images/images-cap-I/Foto-Josehp.png" alt="FOTO JOSEHP" width="200px">
 </div>
 
 En la actualidad, me encuentro en el quinto ciclo de mi formación en Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Mi personalidad proactiva me impulsa a buscar constantemente nuevas oportunidades de aprendizaje, mientras que mi perseverancia innata me lleva a enfrentar cada desafío con determinación. Mi sentido de responsabilidad guía mis acciones, asegurando que me comprometo plenamente con mis tareas y metas. En mis momentos de ocio, encuentro satisfacción en los videojuegos, la música, el fútbol y las series, actividades que fomentan mi creatividad. Mi habilidad técnica abarca diversos lenguajes y herramientas, como C++, Java, Python, HTML, CSS, Git y Javascript, y busco constantemente fusionar creatividad y lógica para abordar desafíos con innovación y eficiencia.
@@ -171,7 +171,7 @@ En la actualidad, me encuentro en el quinto ciclo de mi formación en Ingenierí
 **Rengifo Mirabal, Randy Becker:**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="images/images-cap-I/Foto-Randy.png" alt="FOTO RANDY" width="150px">
+  <img src="/images/images-cap-I/Foto-Randy.png" alt="FOTO RANDY" width="150px">
 </div>
 
 Actualemente me encuentro cursando el quinto ciclo de la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, perseverante, responsable y sobre todo divertido. Mis pasatiempos favoritos son los videojuegos, escuchar música, jugar al futbol. Cuentos con conocimientos en C++, Java, Kotlin, HTML, CSS, etc.
@@ -179,7 +179,7 @@ Actualemente me encuentro cursando el quinto ciclo de la carrera de Ingenieria d
 **Ruiz Torres, Erick Hernan**
 
 <div style="float: right; margin-left: 30px;">
-  <img src="images/images-cap-I/Foto-Erick.png" alt="FOTO ERICK" width="250px">
+  <img src="/images/images-cap-I/Foto-Erick.png" alt="FOTO ERICK" width="250px">
 </div>
 
 Actualmente me encuentro cursando el quinto ciclo de la carrera de Ingenieria de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable, puntual y dedicada. Mis pasatiempos favorito es la ilustración digital, escuchar música, jugar al futbol. Cuento con conocimientos en C++, Java, HTML, CSS, etc.
@@ -187,7 +187,7 @@ Actualmente me encuentro cursando el quinto ciclo de la carrera de Ingenieria de
 **Salas Pujay, Mauricio Alberto:**
 
 <div style="float: right; margin-left: 20px;">
-  <img src="images/images-cap-I/Foto-Mauricio.png" alt="FOTO MAURICIO" width="200px">
+  <img src="/images/images-cap-I/Foto-Mauricio.png" alt="FOTO MAURICIO" width="200px">
 </div>
 
 Actualmente me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona dedicada, responsable, proactivo, y eficiente. Mis pasatiempos favoritos son escuchar música, ver series y en ciertas ocasiones jugar videojuegos y al básquet. En cuanto al conocimiento de la programación tengo una experiencia en uso de C++, Java Script, Html, Css.
@@ -1068,7 +1068,7 @@ En esta sección, establecemos las pautas de estilo que definirán los principio
 En esta sección, se revelará la selección completa de colores que hemos definido, junto con los íconos, el logo y la tipografía elegida. Estos componentes desempeñan un papel esencial en la creación de los estilos visuales que caracterizarán la apariencia de nuestra plataforma web. Cada matiz y diseño ha sido cuidadosamente seleccionado para transmitir una identidad coherente y única a lo largo de la aplicación, asegurando una experiencia visual atractiva para nuestros usuarios.
 
 <p align="center">
-  <img src="images/images-cap-IV/imagenes_web_style_guidelines/" alt="Imagen centrada"/>
+  <img src="/images/images-cap-IV/imagenes_web_style_guidelines/" alt="Imagen centrada"/>
 
 </p>
 
@@ -1076,7 +1076,7 @@ En esta sección, se revelará la selección completa de colores que hemos defin
 
 #### 4.1.2. Web Style Guidelines.
 En general, para los Lineamientos de Estilo Web, utilizaremos la fuente seleccionada en las Lineamientos de Estilo Generales: la fuente Poppins. Esta fuente se destaca por su legibilidad y estilo moderno, lo que la hace ideal para proyectos web. Además, se presenta la selección de colores para nuestra landing page y aplicación web, junto con el logotipo característico de nuestro producto, el cual no tendrá muchas variantes. También se muestran los diferentes formatos de botones que utilizaremos, así como la selección del estilo de tarjeta que aplicaremos en algunas secciones de nuestra landing page. Por último, se presenta la selección de íconos que servirán para la navegación.<p align="center">
-  <img src="images/images-cap-IV/imagenes_web_style_guidelines/web_style_guideline.jpg" alt="Imagen centrada"/>
+  <img src="/images/images-cap-IV/imagenes_web_style_guidelines/web_style_guideline.jpg" alt="Imagen centrada"/>
 
 </p>
 
@@ -1209,12 +1209,12 @@ En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arras
 
  <div align="center" style="{}" >
   <strong>Landing page para Desktop Web Browser</strong>
-  <img src="images/images-cap-IV/landing_page_wireframes/desktop/Landing page.jpg" alt="Imagen centrada"/>
+  <img src="/images/images-cap-IV/landing_page_wireframes/desktop/Landing page.jpg" alt="Imagen centrada"/>
 </div>
 
  <div align="center" style="{}" >
   <strong>Landing page para Mobile Web Browser</strong>
-  <img src="images/images-cap-IV/landing_page_wireframes/movile/Landing page_wireframe_movil_page-0002.jpg"/>
+  <img src="/images/images-cap-IV/landing_page_wireframes/movile/Landing page_wireframe_movil_page-0002.jpg"/>
 </div>
 </div>
 
@@ -1224,12 +1224,12 @@ En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arras
 
   <div align="center" style="{}" >
   <strong>Landing page para Desktop Web Browser</strong>
-   <img src="images/images-cap-IV/landing_page_mockups/desktop/Landing_page.jpg" alt="Imagen centrada"/>
+   <img src="/images/images-cap-IV/landing_page_mockups/desktop/Landing_page.jpg" alt="Imagen centrada"/>
 </div>
 
  <div align="center" style="{}" >
   <strong>Landing page para Mobile Web Browser</strong>
-   <img src="images/images-cap-IV/landing_page_mockups/movile/ilovepdf_page_movil_mockup_page-0001.jpg"/>
+   <img src="/images/images-cap-IV/landing_page_mockups/movile/ilovepdf_page_movil_mockup_page-0001.jpg"/>
 </div>
 
 ## **4.4. Web Applications UX/UI Design.**
@@ -1244,128 +1244,128 @@ En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arras
 **PERFIL DE USUARIO:** Aqui el usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario también podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 El botón mas importante en esta sección es el botón de **Subir documentos de Antecendente Penales**. Al presionar este botón podra subir desde su ordenador los documentos necesarios para validar sus datos. Luego se subirlo el boton cambiará a **Actualizar documentos de Antecendente Penales**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi7.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi7.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/perfi8.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/perfi8.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Acceder** , si no esta registrado, debera presionar el botón **Inscríbete**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/login.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/login.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/registro.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/registro.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **INICIO:** Aqui el usuario  encontrara toda las opciones posibles de la plataforma , además encontrara posibles herramientas adicionales que le puedan servir. Dentro de esta ventana estará la opcion de **Buscar coche** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Buscar Auto** , **Mantenimiento** , **Alquilar**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/inicio.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/inicio.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **BUSCAR AUTOS:** Aqui el usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón **Buscar** para iniciar con la búsqueda, inmediatamente aparecerá el resultado de la búsqueda  como datos del vehiculo  , datos del propietario del vehículo y el estatus del anuncio (Disponible o No Disponible). Dentro de la busqueda estará el botón de **Ver contrato de alquiler**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 EL usuario debe verificar el contrato de Alquiler  que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón **Generar firma digital** y luego presionar el botón **Solicitar Alquiler** para que se envie una solicitud al propietario del vehículo con propósito de alquiler.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
   
 **MANTENIMIENTO:** Aqui el usuario podra enviar un mensaje directamente al correo electrónico del propietario delvehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debe ingresar los datos requeridos y presionar el botón **Enviar**.  
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/mante1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/mante1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/mante2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/mante2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/mante3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/mante3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/mante4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/mante4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/mante5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/mante5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **SOLICITUDES:** Aqui el usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de **Pagar**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/soli1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/soli1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/soli2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/soli2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **ALQUILER:** Aqui el usuario podra ver  toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de **Pagar**.También se puede agregar otro vehículo presionando el botón **Agregar otro vehículo**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/alqui3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/alqui3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 
  Luego de presionar el botón **Pagar** se abrira otra ventana para relaizar el pago dentro de esta ventana, se encontrara 2 opciones de pago : EFECTIVO y ONLINE.Dentro de esta ventana también estara dicponible los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
  <p align="center">
- <img src="images/images-cap-IV/imagenes_web_desing/pago1.png" alt="Imagen centrada" width="700" height="500"/>
+ <img src="/images/images-cap-IV/imagenes_web_desing/pago1.png" alt="Imagen centrada" width="700" height="500"/>
  <p>
  
  
   Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana de Confirmación de Pago.
 <p align="center">
-  <img src="images/images-cap-IV/imagenes_web_desing/pagoefe1.png" alt="Imagen centrada" width="700" height="500"/>
+  <img src="/images/images-cap-IV/imagenes_web_desing/pagoefe1.png" alt="Imagen centrada" width="700" height="500"/>
   <p>
 <p align="center">
-  <img src="images/images-cap-IV/imagenes_web_desing/pagoefe2.png" alt="Imagen centrada" width="700" height="500"/>
+  <img src="/images/images-cap-IV/imagenes_web_desing/pagoefe2.png" alt="Imagen centrada" width="700" height="500"/>
   <p>
   
   
   
 <p align="center">
-  <img src="images/images-cap-IV/imagenes_web_desing/pagoon1.png" alt="Imagen centrada" width="700" height="500"/>
+  <img src="/images/images-cap-IV/imagenes_web_desing/pagoon1.png" alt="Imagen centrada" width="700" height="500"/>
   <p>
 <p align="center">
-  <img src="images/images-cap-IV/imagenes_web_desing/pagoon2.png" alt="Imagen centrada" width="700" height="500"/>
+  <img src="/images/images-cap-IV/imagenes_web_desing/pagoon2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **---------------------------------------------------------**
@@ -1374,41 +1374,41 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 **PERFIL DE USUARIO:** Aqui el usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario también podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/properfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/properfi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/properfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/properfi2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/properfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/properfi3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/properfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/properfi4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/properfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/properfi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Acceder** , si no esta registrado, debera presionar el botón **Inscríbete**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/prologin.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/prologin.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proregistro.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proregistro.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **INICIO:** Aqui el usuario  encontrara toda las opciones posibles de la plataforma , además encontrara posibles herramientas adicionales que le puedan servir como por ejemplo visualizacion de notificaciones recientes. Dentro de esta ventana estará la opcion de **Compartir tu auto** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Registro vehicular* , **Notificaciones** , **Alquiler**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proinicio.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proinicio.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **REGISTRO DE VEHÍCULO :** Aqui el usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.  
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
 <img src=".images/images-cap-IV/imagenes_web_desing/proregistrovehi2.png" alt="Imagen centrada" width="700" height="500"/>
@@ -1418,32 +1418,32 @@ Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en
 Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato predeterminado con condiciones generales .Luego de generado deberá presionar el botón **Subir contrato**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/provehi3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/provehi3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/provehi4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/provehi4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/provehi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/provehi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 Al presionar **Subir contrato manual en PDF** aparecera una ventana para que pueda subir los documentos en PDF se generara automáticamente un contrato predeterminado con condiciones generales .Luego de generado deberá presionar el botón **Subir contrato**.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/subircontrato1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/subircontrato1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/subircontrato2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/subircontrato2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/provehi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/provehi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 
 Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de **Regresar al registo** , que sirve como redireccionamiento para la ventana principal del REGISTO DEL VEHÍCULO.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/provehi6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/provehi6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 
@@ -1451,43 +1451,43 @@ Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro
 **NOTIFICACIONES:** Aqui el usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.Al presionar en la notificación predeterminada aparecerá los datos de la solicitud.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/pronotifi.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/pronotifi.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **ALQUILER:** En esta ventana estarán todos los autos que se hayan compartido,también se podrá ver el estatus del alquiler , boton de eliminar publicación y si ya esta como Pagado también podrá ver la hora del recojo del vehículo que el arrendatario ha indicado. , dentro de esta estará disponible también el botón de **Afiliar cuenta Banco con MODO** , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para es auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud  aparecerá los datos de la persona que quiere alquilar el auto .Dentro de esta ventana el usuario que es el propietario del vehículo podrá ver los antecedente penales del arrendatario presionando el botón **Verificar Antecedente penales**, al ser verificado aparecerá al costado del botón si el documento fue Aceptado o Rechazado.
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui5.png" alt="Imagen centrada" width="700" height="500"/> 
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui5.png" alt="Imagen centrada" width="700" height="500"/> 
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha pagado el alquiler.
  
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui7.png" alt="Imagen centrada" width="700" height="500"/> 
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui7.png" alt="Imagen centrada" width="700" height="500"/> 
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_desing/proalqui8.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_desing/proalqui8.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 
@@ -1501,7 +1501,7 @@ Link de Prototipo Interactivo en Figma:
 [Clic al link](https://www.figma.com/proto/SLivQnDeKYJalrqtf80doC/web-application?type=design&node-id=1-5&t=BneI2Km1Jq6HF98Y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=51%3A138&show-proto-sidebar=1&mode=design)
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/principal2.svg" alt="Imagen centrada" width="900" height="700"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/principal2.svg" alt="Imagen centrada" width="900" height="700"/>
 <p>
 
 #### **4.4.3. Web Applications Mock-ups.**
@@ -1510,111 +1510,111 @@ Link de Prototipo Interactivo en Figma:
 
 **LOGIN**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/login.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/login.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **REGISTRO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/registro.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/registro.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **INICIO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/inicio.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/inicio.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **BUSCAR AUTOS**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/buscar5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/buscar6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **ALQUILER**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pago efectivo.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pago efectivo.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pago efectivo2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pago efectivo2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pago online.png" alt="Imagen centrada" width="700" height="900"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pago online.png" alt="Imagen centrada" width="700" height="900"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pago online2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pago online2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **SOLICITUDES**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/soli1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/soli1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/soli2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/soli2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **MANTENIMIENTO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/mante1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/mante1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/mante2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/mante2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/mante3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/mante3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/mante4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/mante4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/mante5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/mante5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/mante6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/mante6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **PERFIL DE USUARIO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi7.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi7.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/perfi8.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/perfi8.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 --------------------------------------------------------------------------------------------------------------------
@@ -1623,100 +1623,100 @@ Link de Prototipo Interactivo en Figma:
 
 **LOGIN**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/prologin.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/prologin.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **REGISTRO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistro.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistro.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **INICIO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proinicio.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proinicio.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **REGISTRO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi7.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi7.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi8.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi8.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi9.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi9.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi10.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proregistrovehi10.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **ALQUILER**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui6.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui7.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui7.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui8.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui8.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proalqui9.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/proalqui9.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **NOTIFICACIONES**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pronotifi.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pronotifi.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **PERFIL DE USUARIO**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/properfi1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/properfi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/properfi2.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/properfi2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/properfi3.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/properfi3.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/properfi4.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/properfi4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/properfi5.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/properfi5.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 
@@ -1729,7 +1729,7 @@ Link para mejor visualización
 
 *INICIO DE SESIÓN*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arreinicio.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arreinicio.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** Como usuario quiero poder iniciar sesión de manera sencilla.
@@ -1740,7 +1740,7 @@ Link para mejor visualización
 
 *REGISTRO*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arreregistro.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arreregistro.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** Como usuario quiero poder registrarme y luego acceder a la plataforma.
@@ -1751,7 +1751,7 @@ Link para mejor visualización
 
 *INICIO PRINCIPAL*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arreiniciopri.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arreiniciopri.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
@@ -1762,7 +1762,7 @@ Link para mejor visualización
 
 *BUSCAR AUTOS*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arrebuscar.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arrebuscar.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero poder buscar cualquier auto de mi interés.
@@ -1773,7 +1773,7 @@ Link para mejor visualización
 
 *MANTENIMIENTO*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arremante.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arremante.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
@@ -1784,7 +1784,7 @@ Link para mejor visualización
 
 *ALQUILER*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arrealqui.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arrealqui.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
@@ -1795,7 +1795,7 @@ Link para mejor visualización
 
 *SOLICITUDES*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arresoli.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arresoli.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero ver el estado de las solicitudes que he enviado.
@@ -1806,7 +1806,7 @@ Link para mejor visualización
 
 *PERFIL DE USUARIO*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/arreperfi.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/arreperfi.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales de manera sencilla.
@@ -1821,7 +1821,7 @@ Link para mejor visualización
 
 *INICIO DE SESIÓN*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/proinicio.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/proinicio.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** Como usuario quiero poder iniciar sesión de manera sencilla.
@@ -1832,7 +1832,7 @@ Link para mejor visualización
 
 *REGISTRO*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/proregis.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/proregis.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** Como usuario quiero poder registrarme y luego acceder a la plataforma.
@@ -1843,7 +1843,7 @@ Link para mejor visualización
 
 *INICIO PRINCIPAL*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/proiniciopri.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/proiniciopri.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
@@ -1854,7 +1854,7 @@ Link para mejor visualización
 
 *REGISTRAR VEHÍCULOS*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/proregisvehi.jpg" alt="Imagen centrada" width="700" height="750"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/proregisvehi.jpg" alt="Imagen centrada" width="700" height="750"/>
 <p>
 
 **User goal:** : Como usuario, quiero poder registrar mi vehículo de manera sencilla. 
@@ -1865,7 +1865,7 @@ Link para mejor visualización
 
 *NOTIFICACIONES*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/pronotifi.jpg" alt="Imagen centrada" width="700" height="300"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/pronotifi.jpg" alt="Imagen centrada" width="700" height="300"/>
 <p>
 
 **User goal:** : Como usuario, quiero ver todas las notificaciones de manera sencilla.
@@ -1876,7 +1876,7 @@ Link para mejor visualización
 
 *ALQUILER*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/proalqui.jpg" alt="Imagen centrada" width="700" height="600"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/proalqui.jpg" alt="Imagen centrada" width="700" height="600"/>
 <p>
 
 **User goal:** : Como usuario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y ademá poder verificar sus antecedentes penales.
@@ -1887,7 +1887,7 @@ Link para mejor visualización
 
 *PERFIL DE USUARIO*
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_user_flow/properfil.jpg" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_web_user_flow/properfil.jpg" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **User goal:** : Como usuario, quiero ver mis datos y actualizarlos de manera sencilla.
@@ -1911,7 +1911,7 @@ añadiendo las mejoras necesarias.
 
 **Screenshot**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pantalla_mock.png" alt="Imagen centrada" width="700" height="400"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pantalla_mock.png" alt="Imagen centrada" width="700" height="400"/>
 <p>
 
 Enlace presentación: 
@@ -1925,7 +1925,7 @@ Figma: [clic al link](https://www.figma.com/file/zgynlkWf61EGL7k3WX03tu/web-appl
 **Screenshot**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pantalla_mock_deskotp.png" alt="Imagen centrada" width="700" height="400"/>
+<img src="/images/images-cap-IV/imagenes_web_mock/pantalla_mock_deskotp.png" alt="Imagen centrada" width="700" height="400"/>
 <p>
 
 Enlace presentación: 
@@ -1938,12 +1938,12 @@ Figma: [clic al link](https://www.figma.com/file/SLivQnDeKYJalrqtf80doC/web-appl
 ## **4.6. Domain-Driven Software Architecture.**
 ### **4.6.1. Software Architecture Context Diagram.**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ContextDiagram.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ContextDiagram.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 ### **4.6.2. Software Architecture Container Diagrams.**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ContainerDiagram.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ContainerDiagram.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 ### **4.6.3. Software Architecture Components Diagrams.**
@@ -1951,49 +1951,49 @@ Figma: [clic al link](https://www.figma.com/file/SLivQnDeKYJalrqtf80doC/web-appl
 **Diagrama de Componentes de Seguridad**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteSeguridad.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteSeguridad.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componentes de Registro Vehicular**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteRegistroVehi.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteRegistroVehi.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componentes de Búsqueda Vehicular**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteBusqueda.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteBusqueda.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componente Solicitud**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteSolicitud.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteSolicitud.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componente Perfil**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponentePerfil.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponentePerfil.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componente Notificaciones**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteNotificacion.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteNotificacion.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componente Mantenimiento**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteMante.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteMante.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **Diagrama de Componente Alquiler**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_context/ComponenteAlqui.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_context/ComponenteAlqui.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 Link del proyecto en Structurizr: [clic al link](https://structurizr.com/share/77352/f19c7985-7fea-42e8-803a-81462791f322)
@@ -2004,7 +2004,7 @@ Link del proyecto en Structurizr: [clic al link](https://structurizr.com/share/7
 
 **DIAGRAMA DE CLASES**
 <p align="center">
-<img src="images/images-cap-IV/imagenes_diagramas/Diagrama de clases final de Automovile-unit.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_diagramas/Diagrama de clases final de Automovile-unit.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 Link del diagrama de clases en Lucichart: [clic al link](https://lucid.app/lucidchart/30395744-9daf-4636-86e1-8d728528111d/edit?viewport_loc=644%2C654%2C2220%2C1026%2C0_0&invitationId=inv_0f673416-c1be-4d72-a203-972f3aaf82b8)
@@ -2036,7 +2036,7 @@ Link del diagrama de clases en Lucichart: [clic al link](https://lucid.app/lucid
 ### **4.8.1. Database Diagram.**
 
 <p align="center">
-<img src="images/images-cap-IV/imagenes_diagramas/Database_Automovile_unit-2023-09-01_10-10.png"Imagen centrada" width="700" height="500"/>
+<img src="/images/images-cap-IV/imagenes_diagramas/Database_Automovile_unit-2023-09-01_10-10.png"Imagen centrada" width="700" height="500"/>
 <p>
 
 Link del Database Diagram en Vertabelo: [clic al link](https://my.vertabelo.com/doc/Sj9rOshzIBVBRiV70o4PwTA48p96ponL)
@@ -2083,7 +2083,7 @@ Utilizamos el lenguaje de HTML para la implementación base de nuestra Landing P
 ### **5.1.4. Software Deployment Configuration.**
 Se crea un repositorio remoto de trabajo en GitHub.
 <p align="center">
-  <img src="images/images-cap-V/crear-repository.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/crear-repository.PNG" alt="Imagen centrada"/>
 </p>
 así haciendo esto procedemos a entrar a la visual donde podemos editar con los comandos "git" las diferentes funcionalidades como el "git init" para inicializar el repositorio local.
 Ya teniendo esto podemos subir los archivos al GitHub para una mayor facilidad de controlar el avance mutuo entre nosotros. en nuestro caso usamos la terminal del VisualStudioCode, junto con la posibilidad de usar git dentro de esta.
@@ -2091,7 +2091,7 @@ Luego nos dirigimos al repositorio remoto de GitHub.
 Para activar nuestra página vamos al apartado de Settings y buscamos en donde está la configuración en donde desplegar la página de la landing Page, en nuestro caso vamos a desplegarlo en el main pero esta vez hemos probado desplegándolo en nuestro Branch "DEVELOP".
 
 <p align="center">
-  <img src="images/images-cap-V/linkcrear.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/linkcrear.PNG" alt="Imagen centrada"/>
 </p>
 Luego en la misma seccion de Settings ya tendríamos nuestro link creado en el apartado de "Environments".
 <p align="center">
@@ -2108,7 +2108,7 @@ https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
 #### **5.2.1. Sprint 1**
 ##### **5.2.1.1. Sprint Planning 1.**
 <p align="center">
-  <img src="images/images-cap-V/delinforme.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/delinforme.PNG" alt="Imagen centrada"/>
 </p>
 Link de Trello del informe: 
 
@@ -2117,7 +2117,7 @@ Link de Trello del informe:
 <hr>
 
 <p align="center">
-  <img src="images/images-cap-V/delalanding.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/delalanding.PNG" alt="Imagen centrada"/>
 </p>
 Link de Trello de Landing Page:
 
@@ -2152,19 +2152,19 @@ En esta parte sabemos que hemos desarrollado solo el apartado de la Landing Page
 En esta entrega nos enfocamos en el desarrollo total de la Landing Page y poder desplegarlo para que a partir de ahi poder crear e implementar las diferentes funcionalidades que tenemos pensadas. La landing page creada habla sobre como nuestra Aplicación Web tendrá el impacto en el mundo automovilístico para generar una repercusión en la compra, venta y alquiler de vehículos
 
 <p align="center">
-  <img src="images/images-cap-V/landing1.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/landing1.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 <p align="center">
-  <img src="images/images-cap-V/landing2.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/landing2.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 <p align="center">
-  <img src="images/images-cap-V/landing3.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/landing3.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 <p align="center">
-  <img src="images/images-cap-V/landing4.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/landing4.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 
@@ -2192,16 +2192,16 @@ https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
 
 ##### **5.2.1.8. Team Collaboration Insights during Sprint.**
 <p align="center">
-  <img src="images/images-cap-V/pull.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/pull.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 <p align="center">
-  <img src="images/images-cap-V/contri.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/contri.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 
 <p align="center">
-  <img src="images/images-cap-V/commit.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/commit.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
 
