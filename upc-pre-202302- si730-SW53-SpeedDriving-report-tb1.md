@@ -2058,6 +2058,7 @@ Link: https://www.figma.com
 ##### Software Development:
 Para el apartado visual y tipeado de nuestro informe, se ha utilizado visualStudioCode junto con Markdown, la cual es un lenguaje de documentación al estilo de Microsoft Word. Tambien se utilizó VS Code para para la codificación de la landing Page.
 Link: https://code.visualstudio.com
+
 ##### Software Documentation:
 El proyecto, documentación e informe este alojado en el famoso "GitHub" herramienta que nos facilita a trabajar en conjunto y con una productividad amena para así facilitar el hecho de cuanto trabajo o cuanto porcentaje de eficacia estamos teniendo con el avance del proyecto.
 Link: https://github.com
