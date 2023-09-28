@@ -37,6 +37,10 @@
 | 3    | [03-09-2023]     | [Todos los integrantes]  | [Implementacion del capitulo IV] |
 | 4    | [05-09-2023]     | [Todos los integrantes]  | [Implementacion del capitulo V] |
 | 5    | [08-09-2023]     | [Todos los integrantes]  | [Ultimas revisiones del documento] |
+| 6    | [23-09-2023]     | [Todos los integrantes]  | [Implementación de vistas del Frontend] |
+| 7    | [23-09-2023]     | [Todos los integrantes]  | [Avence del Sprint 2] |
+| 8    | [27-09-2023]     | [Erick Ruiz Torres]  | [Despliegue del Frontend] |
+| 9    | [27-09-2023]     | [Todos los integrantes]  | [Ultimas revisiones del informe] |
 
 
 
@@ -53,7 +57,8 @@
 
 ## **Contenido**
 ### CAPÍTULO I: INTRODUCCIÓN
-- [1.1 Startup Profile]
+
+- [1.1 Startup Profile] 
   - [1.1.1. Descripción de la Startup]
   - [1.1.2. Perfiles de integrantes del equipo]
 - [1.2 Solution Profile]
@@ -132,10 +137,21 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review.]
     - [5.2.1.8. Team Collaboration Insights during Sprint.]
 
+  - [5.2.2. Sprint 2]
+    - [5.2.1.1. Sprint Planning 2.]
+    - [5.2.1.2. Sprint Backlog 2.]
+    - [5.2.1.3. Development Evidence for Sprint Review.]
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review.]
+    - [5.2.1.5. Execution Evidence for Sprint Review.]
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review.]
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review.]
+    - [5.2.1.8. Team Collaboration Insights during Sprint.]  
+
 ## Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
-| La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. | **TB1: Rengifo Mirabal, Randy Becker:** Capitulo I y III - **TB1: Baldeon Fabian, Aldo Alberto:** Capitulo II - **TB1: Herrera Del Pino, Josehp Piero** Capitulo IV - **TB1: Ruiz Torres, Erick Hernan** Capitulo IV - **TB1: Salas Pujay, Mauricio Alberto** Capitulo V | [- Hemos reconocido la importancia fundamental del trabajo en equipo en el logro de objetivos y metas compartidas. Comprendemos que no se trata solo de las habilidades individuales, sino de la capacidad de colaborar de manera efectiva. - Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. Esto implica definir metas concretas, asignar responsabilidades y elaborar un plan estratégico. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos. Entendemos que el éxito radica en nuestra capacidad para trabajar de manera eficiente y coordinada para alcanzar resultados deseables.]|
+| La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. |**TB1: Rengifo Mirabal, Randy Becker:** Capitulo I y III - **TB1: Baldeon Fabian, Aldo Alberto:** Capitulo II - **TB1: Herrera Del Pino, Josehp Piero** Capitulo IV - **TB1: Ruiz Torres, Erick Hernan** Capitulo IV - **TB1: Salas Pujay, Mauricio Alberto** Capitulo V | [- Hemos reconocido la importancia fundamental del trabajo en equipo en el logro de objetivos y metas compartidas. Comprendemos que no se trata solo de las habilidades individuales, sino de la capacidad de colaborar de manera efectiva. - Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. Esto implica definir metas concretas, asignar responsabilidades y elaborar un plan estratégico. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos. Entendemos que el éxito radica en nuestra capacidad para trabajar de manera eficiente y coordinada para alcanzar resultados deseables.]|
+| Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TB1: Todos los Integrantes** - Implementación del Frontend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Frontend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
 
 # CAPÍTULO I: INTRODUCCIÓN 
 
@@ -1028,6 +1044,35 @@ Arturo también se muestra colaborativo al expresar su disposición para proporc
 
 **Criterios de Aceptación:**
 - **Dado** que quiero afiliar mi cuenta bancaria, **cuando** accedo a la sección "Alquiler", **entonces** veo el botón "Afiliar cuenta Banco con MODO". Al presionar el botón, puedo completar los detalles de la cuenta y la afiliación se realiza correctamente.
+
+***
+
+### **User Story: 21**
+**Usuario:** Propietario  y Arrendatario            
+
+**Título de la Historia de Usuario:** Inicio de sesión
+
+**Descripción de la Historia de Usuario:** **Como** Propietario y Arrendatario, **quiero** tener acceso a la aplicacion web directamente desde la sección Login.
+
+**Criterios de Aceptación:**
+- **Dado** que quiero iniciar sesión con mi cuenta. **cuando** accedo a la sección "Login" y presiono el enlace de "Arrendatario, **entonces** accedo al Login de Arrendatario y luego completo mi correo y contraseña, **entonces**  presiono el botón "Iniciar Sesion como Arrendatario " y accedo a mi cuenta  sin problemas.
+
+- **Dado** que quiero iniciar sesión con mi cuenta. **cuando** accedo a la sección "Login" y presiono el enlace de "Propietario, **entonces** accedo al Login de Propietario y luego completo mi correo y contraseña, **entonces**  presiono el botón "Iniciar Sesion como Propietario " y accedo a mi cuenta  sin problemas.
+
+***
+
+### **User Story: 22**
+**Usuario:** Propietario  y Arrendatario            
+
+**Título de la Historia de Usuario:** Registro de cuenta
+
+**Descripción de la Historia de Usuario:** **Como** propietario o arrendatario, **quiero** poder registrarme en la aplicacion web directamente desde la sección Registro.
+
+**Criterios de Aceptación:**
+- **Dado** que soy un arrendatario y quiero  registrarme con una cuenta nueva. **cuando** accedo a la sección "Registro" desde el botón de "INSCRÍBETE" de Login Arrendatario, **entonces** completo mi correo , contraseña , nombre, apellido, país y teléfono  y presiono el botón "Registrarme como Arrendatario", aparecera una ventana de confirmación **entonces** ya se estará registrado en la aplicación.
+
+- **Dado** que soy un propietario y quiero  registrarme con una cuenta nueva. **cuando** accedo a la sección "Registro" desde el botón de "INSCRÍBETE" de Login Propietario, **entonces** completo mi correo , contraseña , nombre, apellido, país y teléfono  y presiono el botón "Registrarme como Propietario", aparecera una ventana de confirmación **entonces** ya se estará registrado en la aplicación.
+
 
 
 ### **3.3. Impact Mapping.**
@@ -2092,12 +2137,13 @@ Para activar nuestra página vamos al apartado de Settings y buscamos en donde e
 <p align="center">
   <img src="/images/images-cap-V/linkcrear.PNG" alt="Imagen centrada"/>
 </p>
+
 Luego en la misma seccion de Settings ya tendríamos nuestro link creado en el apartado de "Environments".
+
 <p align="center">
-  <img src=".images/images-cap-V/linkcreado.PNG" alt="Imagen centrada"/>
+  <img src="/images/images-cap-V/linkcreado.PNG" alt="Imagen centrada"/>
 </p>
 Link de la Landing Page: 
-
 https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
 
 
@@ -2267,6 +2313,7 @@ En esta entrega nos enfocamos en el desarrollo total de la Frontent y poder desp
 -
 ------
 ![impur](https://i.postimg.cc/B6wh96xb/Captura-de-pantalla-2023-09-27-174749.png)
+
 
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review.**
