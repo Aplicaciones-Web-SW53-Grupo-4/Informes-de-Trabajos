@@ -2289,7 +2289,7 @@ Para esta entrega logramos cumplir la implementación de la Frontend donde se en
 Presentamos:
 URL (Link desplegado de Frontend (AutoMovil-Unit)): 
 
-https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+https://automovile-unit.web.app/#/
 
 
 ##### **5.2.1.8. Team Collaboration Insights during Sprint.**
