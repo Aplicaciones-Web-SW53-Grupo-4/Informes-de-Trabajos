@@ -2301,19 +2301,45 @@ https://trello.com/invite/b/tKLCiwoF/ATTI7365781fd32d17e8f6e22b37f473e6b2A51C87D
 ##### **5.2.1.4. Testing Suite Evidence for Sprint Review.**
 En esta parte  hemos desarrollado las vistas requeridas para el Frontent de la Aplicación Web,Se realizaron pruebas de Login,con ayuda de usa fake api para validar el acceso y tener mejor seguridad.Por el momento es la unica prueba que se ha realizado. La funcionalidad de rutas si esta disponible en el Frontend mediante los botones disponibles en cada sección.
 
-![impur](https://i.postimg.cc/1zs7Dbmm/Captura-de-pantalla-2023-09-27-174723.png)
+|USER STORIE| Repository         | Branch | Commit ID                           | Commit Message                         | Commit Message Body | Committed on Date   |  
+|--------------------|--------|--------|------------------------------------|----------------------------------------|---------------------|--------------------|
+| 21 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | f4863f0042b0a777630f7776cee063c266136928 | Implementación de la login. | -                   | 25 de septiembre de 2023 |
+| 22 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | eed3186f91ebaf358a68792c143ab8177f5dacb0 | Agregado de la sección Registro       | -          | 25 de septiembre de 2023 |
+| 1 y 12 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend    | main   | 58a82d2c5035a3f1499114934258ff66f27bb630 | Diseño de la sección Perfil de Usuario      | -                   | 24 de septiembre de 2023 |
+| 16 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend  | main   | 2d54706a78a0201e5fc9ec5d83662b4885c5c396 | Integración de la sección Notificaciones  | -                   | 26 de septiembre de 2023 |
+| 3 y 13 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 8570972b5cdb497b3f6f644bb6d5e02abfa2c389 | Desarrollo de la funcionalidad de registro de Vehiculos y Busqueda de Vehiculos. | - | 26 de septiembre de 2023 |
+| 7 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 5770972b5cdb497b3f6f644bb6d5e02abfa2c389 | Desarrollo de la funcionalidad de Solicitudes. | - | 26 de septiembre de 2023 |
 
-![impur](https://i.postimg.cc/B6wh96xb/Captura-de-pantalla-2023-09-27-174749.png)
+*User Stories del Testing*
+
+![impur](https://i.postimg.cc/FRdbCz2Z/21.png)
+
+![impur](https://i.postimg.cc/B6rTrs3G/22.png)
+
+![impur](https://i.postimg.cc/m2xjq3ZF/1.png)
+
+![impur](https://i.postimg.cc/52gm6ZBw/12.png)
+
+![impur](https://i.postimg.cc/3wwFpn1z/16.png)
+
+![impur](https://i.postimg.cc/c4QhNK6k/3.png)
+
+![impur](https://i.postimg.cc/vmSLvfST/13.png)
+
+![impur](https://i.postimg.cc/SxkrQyMS/7.png)
 
 ##### **5.2.1.5. Execution Evidence for Sprint Review.**
 
 En esta entrega nos enfocamos en el desarrollo total de la Frontent y poder desplegarlo se utilizo Firebase. El frontend tiene las vistas de las funcionalidades que nuestra web ofrecera al usuario. A continuacion se muestra las paginas principales desplegadas.
 
--
--
-------
-![impur](https://i.postimg.cc/B6wh96xb/Captura-de-pantalla-2023-09-27-174749.png)
-
+![impur](https://i.postimg.cc/TPVwQ6Ps/Captura-de-pantalla-2023-09-28-131735.png)
+![impur](https://i.postimg.cc/BQRn06Ly/Captura-de-pantalla-2023-09-28-131756.png)
+![impur](https://i.postimg.cc/rFDw3Wmx/Captura-de-pantalla-2023-09-28-132300.png)
+![impur](https://i.postimg.cc/hjKG55zt/Captura-de-pantalla-2023-09-28-132330.png)
+![impur](https://i.postimg.cc/7hWYbPB5/Captura-de-pantalla-2023-09-28-132408.png)
+![impur](https://i.postimg.cc/NGJ0dbgQ/Captura-de-pantalla-2023-09-28-132512.png)
+![impur](https://i.postimg.cc/1Xt39VKx/Captura-de-pantalla-2023-09-28-132538.png)
+![impur](https://i.postimg.cc/Y98SKzYf/Captura-de-pantalla-2023-09-28-132611.png)
 
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review.**
@@ -2365,8 +2391,11 @@ https://automovile-unit.web.app/#/
 https://trello.com/b/2Stqn5Ye/landing-page
 - **Link del GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4
 - **Link del Informe en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Informes-de-Trabajos
+- **Link del Features en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Features-Testing
 - **Link del GitHub de la Landing Page:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Landing-page
+- **Link del GitHub del Frontend:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend
 - **Link de la Landing Page:** https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+- **Link de la Frontend Desplegado:** https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
 
 ## Bibliografía
 - HTML: HyperText Markup Language | MDN. (2023, July 17). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/HTML
