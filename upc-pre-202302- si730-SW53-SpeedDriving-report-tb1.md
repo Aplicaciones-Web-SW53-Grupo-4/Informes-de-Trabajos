@@ -2100,9 +2100,6 @@ Link de la Landing Page:
 
 https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
 
-
-## **CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT**
-
 ### **5.2. Landing Page, Services & Applications Implementation.**
 
 #### **5.2.1. Sprint 1**
@@ -2204,18 +2201,6 @@ https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
   <img src="/images/images-cap-V/commit.PNG" alt="Imagen centrada"/>
 </p>
 <hr>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #### **5.2.1. Sprint 2**
