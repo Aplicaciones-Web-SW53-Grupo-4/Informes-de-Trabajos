@@ -1986,9 +1986,8 @@ Figma: [clic al link](https://www.figma.com/file/SLivQnDeKYJalrqtf80doC/web-appl
 <p>
 
 ### **4.6.2. Software Architecture Container Diagrams.**
-<p align="center">
-<img src="/images/images-cap-IV/imagenes_context/ContainerDiagram.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
+
+![impur](https://i.postimg.cc/05zK2Hx3/structurizr-77352-Contenedor.png)
 
 ### **4.6.3. Software Architecture Components Diagrams.**
 
@@ -2310,22 +2309,19 @@ En esta parte  hemos desarrollado las vistas requeridas para el Frontent de la A
 | 3 y 13 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 8570972b5cdb497b3f6f644bb6d5e02abfa2c389 | Desarrollo de la funcionalidad de registro de Vehiculos y Busqueda de Vehiculos. | - | 26 de septiembre de 2023 |
 | 7 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 5770972b5cdb497b3f6f644bb6d5e02abfa2c389 | Desarrollo de la funcionalidad de Solicitudes. | - | 26 de septiembre de 2023 |
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 *User Stories del Testing*
 
 ![impur](https://i.postimg.cc/FRdbCz2Z/21.png)
-
 ![impur](https://i.postimg.cc/B6rTrs3G/22.png)
-
 ![impur](https://i.postimg.cc/m2xjq3ZF/1.png)
-
 ![impur](https://i.postimg.cc/52gm6ZBw/12.png)
-
 ![impur](https://i.postimg.cc/3wwFpn1z/16.png)
-
 ![impur](https://i.postimg.cc/c4QhNK6k/3.png)
-
 ![impur](https://i.postimg.cc/vmSLvfST/13.png)
-
 ![impur](https://i.postimg.cc/SxkrQyMS/7.png)
 
 ##### **5.2.1.5. Execution Evidence for Sprint Review.**
@@ -2387,8 +2383,7 @@ https://automovile-unit.web.app/#/
 - https://www.figma.com/file/Vzt3vQoRPZOXbziRvtRZXi/Landing-page?type=design&node-id=116%3A117&mode=design&t=meAF7ldyoprCkNWY-1
 - https://www.figma.com/file/Vzt3vQoRPZOXbziRvtRZXi/Landing-page?type=design&node-id=117%3A593&mode=design&t=meAF7ldyoprCkNWY-1
 
-- **Link del Trello:**  https://trello.com/b/bwGqN1z7/tb1-semana-4 
-https://trello.com/b/2Stqn5Ye/landing-page
+- **Link del Trello:** https://trello.com/b/bwGqN1z7/tb1-semana-4 
 - **Link del GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4
 - **Link del Informe en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Informes-de-Trabajos
 - **Link del Features en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Features-Testing
