@@ -2264,7 +2264,7 @@ https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
 
 
 #### **5.2.1. Sprint 2**
-##### **5.2.1.1. Sprint Planning 2.**
+##### **5.2.2.1. Sprint Planning 2.**
 
 ![impur](https://i.postimg.cc/TYMyk0n5/erick-ruiz.png)
 
@@ -2274,7 +2274,7 @@ Link de Trello del informe:
 https://trello.com/invite/b/tKLCiwoF/ATTI7365781fd32d17e8f6e22b37f473e6b2A51C87DB/automovile-unit
 
 
-##### **5.2.1.2. Sprint Backlog 2.**
+##### **5.2.2.2. Sprint Backlog 2.**
 
 | Funcionalidad | ID | Título de la Funcionalidad | Estimación (en horas) | Asignado a | Estado |
 | --- | --- | --- | --- | --- | --- |
@@ -2287,7 +2287,7 @@ https://trello.com/invite/b/tKLCiwoF/ATTI7365781fd32d17e8f6e22b37f473e6b2A51C87D
 |Seccion de Inicio Principal | 7| Inicio Principal| 2 horas | Randy Rengifo | Hecho |
 |Seccion de Perfil de Usuario | 8| Perfil de Usuario | 2 horas | Randy Rengifo | Hecho |
 
-##### **5.2.1.3. Development Evidence for Sprint Review.**
+##### **5.2.2.3. Development Evidence for Sprint Review.**
 | Repository         | Branch | Commit ID                           | Commit Message                         | Commit Message Body | Committed on Date   |
 |--------------------|--------|------------------------------------|----------------------------------------|---------------------|--------------------|
 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | f4863f0042b0a777630f7776cee063c266136928 | Implementación de la login. | -                   | 25 de septiembre de 2023 |
@@ -2297,7 +2297,7 @@ https://trello.com/invite/b/tKLCiwoF/ATTI7365781fd32d17e8f6e22b37f473e6b2A51C87D
 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 8570972b5cdb497b3f6f644bb6d5e02abfa2c389 | Desarrollo de la funcionalidad de registro de Vehiculos y Busqueda de Vehiculos. | - | 26 de septiembre de 2023 |
 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 5770972b5cdb497b3f6f644bb6d5e02abfa2c389 | Desarrollo de la funcionalidad de Solicitudes. | - | 26 de septiembre de 2023 |
 
-##### **5.2.1.4. Testing Suite Evidence for Sprint Review.**
+##### **5.2.2.4. Testing Suite Evidence for Sprint Review.**
 En esta parte  hemos desarrollado las vistas requeridas para el Frontent de la Aplicación Web,Se realizaron pruebas de Login,con ayuda de usa fake api para validar el acceso y tener mejor seguridad.Por el momento es la unica prueba que se ha realizado. La funcionalidad de rutas si esta disponible en el Frontend mediante los botones disponibles en cada sección.
 
 |USER STORIE| Repository         | Branch | Commit ID                           | Commit Message                         | Commit Message Body | Committed on Date   |  
@@ -2324,7 +2324,7 @@ En esta parte  hemos desarrollado las vistas requeridas para el Frontent de la A
 ![impur](https://i.postimg.cc/vmSLvfST/13.png)
 ![impur](https://i.postimg.cc/SxkrQyMS/7.png)
 
-##### **5.2.1.5. Execution Evidence for Sprint Review.**
+##### **5.2.2.5. Execution Evidence for Sprint Review.**
 
 En esta entrega nos enfocamos en el desarrollo total de la Frontent y poder desplegarlo se utilizo Firebase. El frontend tiene las vistas de las funcionalidades que nuestra web ofrecera al usuario. A continuacion se muestra las paginas principales desplegadas.
 
@@ -2338,7 +2338,7 @@ En esta entrega nos enfocamos en el desarrollo total de la Frontent y poder desp
 ![impur](https://i.postimg.cc/Y98SKzYf/Captura-de-pantalla-2023-09-28-132611.png)
 
 
-##### **5.2.1.6. Services Documentation Evidence for Sprint Review.**
+##### **5.2.2.6. Services Documentation Evidence for Sprint Review.**
 Nuestro proyecto, denominado AutoMovile-Unit, es una plataforma en línea que permite el alquiler de vehículos entre propietarios y arrendatarios. Para la creación de esta plataforma, hemos utilizado una serie de tecnologías y herramientas clave.
 
 **Webstorm (IDE DE DESARROLLO)**:Utilizamos Webstorm como IDE para el desarrollo de nuestro Frontend .
@@ -2353,7 +2353,7 @@ Git es nuestro sistema de control de versiones principal. Lo hemos utilizado par
 **GitHub**
 Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. GitHub también nos ha brindado una plataforma para revisar y discutir problemas y solicitudes de incorporación de cambios.
 
-##### **5.2.1.7. Software Deployment Evidence for Sprint Review.**
+##### **5.2.2.7. Software Deployment Evidence for Sprint Review.**
 Para esta entrega logramos cumplir la implementación de la Frontend donde se encuentra la información detallada de nuestra StartUp.
 Presentamos:
 URL (Link desplegado de Frontend (AutoMovil-Unit)): 
@@ -2361,13 +2361,32 @@ URL (Link desplegado de Frontend (AutoMovil-Unit)):
 https://automovile-unit.web.app/#/
 
 
-##### **5.2.1.8. Team Collaboration Insights during Sprint.**
+##### **5.2.2.8. Team Collaboration Insights during Sprint.**
 
 ![impur](https://i.postimg.cc/kXhf2DZy/Captura-de-pantalla-2023-09-27-180120.png)
 
 ![impur](https://i.postimg.cc/BZMPCPmq/commit.png)
 
 ![impur](https://i.postimg.cc/JzDKZMCC/Captura-de-pantalla-2023-09-27-180138.png)
+
+## 5.2.3. Sprint 3. 
+#### 5.2.3.1. Sprint Planning 3. 
+![impur](https://i.postimg.cc/sDHFrVvn/sprintplann3.png)
+
+Link del Informe de trello:
+ https://trello.com/b/c1jjPe7c/tb2-semana-12
+#### 5.2.3.2. Sprint Backlog 3. 
+#### 5.2.3.3. Development Evidence for Sprint Review. 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
+#### 5.2.3.5. Execution Evidence for Sprint Review. 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+## 5.3. Validation Interviews. 
+#### 5.3.1. Diseño de Entrevistas. 
+#### 5.3.2. Registro de Entrevistas. 
+#### 5.3.3. Evaluaciones según heurísticas. 
+
 
 ### CONCLUSIONES
 - Potencial de Mercado Prometedor: La startup tiene un potencial de mercado significativo en Perú, aprovechando la subutilización de vehículos particulares y la necesidad de soluciones de alquiler de vehículos más convenientes y accesibles.
