@@ -1389,13 +1389,9 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 <p>
 
 
- Luego de presionar el botón **Pagar** se abrira otra ventana para relaizar el pago dentro de esta ventana, se encontrara 2 opciones de pago : EFECTIVO y ONLINE.Dentro de esta ventana también estara dicponible los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
- <p align="center">
- <img src="images/images-cap-IV/imagenes_web_desing/pago1.png" alt="Imagen centrada" width="700" height="500"/>
- <p>
+ Luego de presionar el botón **Pagar** se abrira otra ventana para realizar el pago dentro de esta ventana, se encontrara la opcion de pago ,esta sección sera una opcion de pago en efectivo .Dentro de esta ventana también estara disponible los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
  
- 
-  Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana de Confirmación de Pago.
+  Al presionar el botón  **Confirmar hora de alquiler** aparecera una ventana de Confirmación de Pago.
 <p align="center">
   <img src="images/images-cap-IV/imagenes_web_desing/pagoefe1.png" alt="Imagen centrada" width="700" height="500"/>
   <p>
@@ -1403,16 +1399,6 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
   <img src="images/images-cap-IV/imagenes_web_desing/pagoefe2.png" alt="Imagen centrada" width="700" height="500"/>
   <p>
   
-  
-  
-<p align="center">
-  <img src="images/images-cap-IV/imagenes_web_desing/pagoon1.png" alt="Imagen centrada" width="700" height="500"/>
-  <p>
-<p align="center">
-  <img src="images/images-cap-IV/imagenes_web_desing/pagoon2.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
-
-**---------------------------------------------------------**
 **PROPIETARIO (Persona que comparte su auto para alquiler):**
 
 **PERFIL DE USUARIO:** Aqui el usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario también podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
@@ -1454,9 +1440,7 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 <p align="center">
 <img src="images/images-cap-IV/imagenes_web_desing/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
-<p align="center">
-<img src=".images/images-cap-IV/imagenes_web_desing/proregistrovehi2.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
+
 
 Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en la cual el usuario podrá presionar el botón **Generar contrato predeterminado** y **Subir contrato manual en PDF**.
 Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato predeterminado con condiciones generales .Luego de generado deberá presionar el botón **Subir contrato**.
@@ -1568,15 +1552,11 @@ Link de Prototipo Interactivo en Figma:
 <p>
 
 **BUSCAR AUTOS**
+
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="https://i.postimg.cc/hjkcNcky/buscar1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
-<p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar2.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
-<p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/buscar3.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
+
 <p align="center">
 <img src="images/images-cap-IV/imagenes_web_mock/buscar4.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
@@ -1591,20 +1571,12 @@ Link de Prototipo Interactivo en Figma:
 <p align="center">
 <img src="images/images-cap-IV/imagenes_web_mock/alqui1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
-<p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/alqui2.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
+
 <p align="center">
 <img src="images/images-cap-IV/imagenes_web_mock/pago efectivo.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
 <img src="images/images-cap-IV/imagenes_web_mock/pago efectivo2.png" alt="Imagen centrada" width="700" height="500"/>
-<p>
-<p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pago online.png" alt="Imagen centrada" width="700" height="900"/>
-<p>
-<p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/pago online2.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **SOLICITUDES**
@@ -1709,7 +1681,7 @@ Link de Prototipo Interactivo en Figma:
 <img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi9.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 <p align="center">
-<img src="images/images-cap-IV/imagenes_web_mock/proregistrovehi10.png" alt="Imagen centrada" width="700" height="500"/>
+<img src="https://i.postimg.cc/Bb240Rsq/proregistrovehi1.png" alt="Imagen centrada" width="700" height="500"/>
 <p>
 
 **ALQUILER**
@@ -2375,17 +2347,205 @@ https://automovile-unit.web.app/#/
 
 Link del Informe de trello:
  https://trello.com/b/c1jjPe7c/tb2-semana-12
+
 #### 5.2.3.2. Sprint Backlog 3. 
+
+
+| Funcionalidad | ID | Título de la Funcionalidad | Estimación (en horas) | Asignado a | Estado |
+| --- | --- | --- | --- | --- | --- |
+| Login Arrendatario y Propietario en Backend| 1 | Login | 3 horas | Erick Ruiz| Hecho |
+| Register propietario y arrendatario en Backend| 2 | Register | 1 horas | Erick Ruiz | Hecho |
+| Buscar Vehículo en Backend | 3 | Buscar vehículo | 2 horas | Joseph Herrera | Hecho |
+| Registro Vehículo | 4 | Registro Vehicular | 3 horas | Joseph Herrera en Backend| Hecho |
+|Implementacion de informe | 5 | Mantenimiento | 2 horas | Aldo Baldeon | Hecho |
+
+
 #### 5.2.3.3. Development Evidence for Sprint Review. 
+| Repository         | Branch | Commit ID                           | Commit Message                         | Commit Message Body | Committed on Date   |
+|--------------------|--------|------------------------------------|----------------------------------------|---------------------|--------------------|
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | f4863f0042b0a777630f7776cee063c266136928 | Implementación de la metodos para el login. | -                   | 25 de octubre de 2023 |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications   | main   | eed3186f91ebaf358a68792c143ab8177f5dacb0 | Implementación de la metodos para el Register    | -          | 25 de octubre de 2023 |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications   | main   | 58a82d2c5035a3f1499114934258ff66f27bb630 | Implementación de la metodos para el Profile    | -                   | 24 de octubre de 2023 |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | 2d54706a78a0201e5fc9ec5d83662b4885c5c396 | Implementación de la metodos para el Search Car  | -                   | 26 de octubre de 2023 |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications | main   | 8570972b5cdb497b3f6f644bb6d5e02abfa2c389 | Implementación de la metodos para el Register Car | - | 31 de octubre de 2023 |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
+
+En esta parte  hemos desarrollado los métodos requeridos para el Backend de la Aplicación Web. Se realizaron pruebas unitarias para validar el comportamiento del backend.
+
+|USER STORIE| Repository         | Branch | Commit ID                           | Commit Message                         | Commit Message Body | Committed on Date   |  
+|--------------------|--------|--------|------------------------------------|----------------------------------------|---------------------|--------------------|
+| 21 | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | f4863f0042b0a777630f7776cee063c266136928 | Implementación de la metodos para el login.(Incluye Unit Test) | -                   | 25 de octubre de 2023 |
+| 22 | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | eed3186f91ebaf358a68792c143ab8177f5dacb0 | Implementación de la metodos para el registro (Incluye Unit Test)      | -          | 25 de octubre de 2023 |
+| 1 y 12 | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | 58a82d2c5035a3f1499114934258ff66f27bb630 | Implementación de la metodos para el perfil del usuario.(Incluye Unit Test)    | -                   | 24 de octubre de 2023 |
+| 16 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend  | main   | 2d54706a78a0201e5fc9ec5d83662b4885c5c396 | Implementación de la metodos para la búsqueda de vehículos.(Incluye Unit Test)  | -                   | 26 de octubre de 2023 |
+| 3 y 13 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 8570972b5cdb497b3f6f644bb6d5e02abfa2c389 | Implementación de la metodos para el Registro de Vehículos.(Incluye Unit Test) | - | 26 de octubre de 2023 |
+| 0 | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend   | main   | 5770972b5cdb497b3f6f644bb6d5e02abfa2c389 | Implementación de la metodos para el  en el Frontend (Incluye Unit Test) | - | 31 de octubre de 2023 |
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
+En esta entrega nos enfocamos en el desarrollo de la implementacion de métodos del Backend al Frontent y poder desplegarlo se utilizo lo siguiente. Para el frontend se uso Firebase , para el Backend se uso (Azur) y para la Base de Datos (Free MySQL). A continuacion se muestra las paginas principales desplegadas y conetadas.
+
+![impur](https://i.postimg.cc/TPVwQ6Ps/Captura-de-pantalla-2023-09-28-131735.png)
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+Para esta parte del proyecto, se implemento el Backend , ademas tambien se uso una base de datos, para esto se  utilizo una serie de tecnologías y herramientas clave.
+
+**Webstorm (IDE DE DESARROLLO)**:Utilizamos Webstorm como IDE para el desarrollo de nuestro Frontend .
+**Rider (IDE DE DESARROLLO)**:Utilizamos Rider como IDE para el desarrollo de nuestro Backend.
+
+**MYSQL:**
+Hemos utilizado MYSQL para  gestionar nuestra Base de Datos
+
+**C#**
+C# se ha implementado como lenguaje principal para el desarrollo del Backend.
+
+**Git**
+Git es nuestro sistema de control de versiones principal. Lo hemos utilizado para rastrear y gestionar cambios en nuestro código a lo largo del desarrollo del proyecto.
+**GitHub**
+Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. GitHub también nos ha brindado una plataforma para revisar y discutir problemas y solicitudes de incorporación de cambios.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.  
+
+Para esta entrega logramos cumplir la implementación del Backend en la cual designamos los métodos necesarios para incluir en el Frontend.
+
+Presentamos:
+URL (Link desplegado de Backend (AutoMovil-Unit)): 
+
+https://automovile-unit.web.app/#/
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+ ![impur](https://i.postimg.cc/kXhf2DZy/Captura-de-pantalla-2023-09-27-180120.png)
+
+![impur](https://i.postimg.cc/BZMPCPmq/commit.png)
+
+![impur](https://i.postimg.cc/JzDKZMCC/Captura-de-pantalla-2023-09-27-180138.png)
+
 ## 5.3. Validation Interviews. 
-#### 5.3.1. Diseño de Entrevistas. 
+#### 5.3.1. Diseño de Entrevistas.
+
+**Preguntas Arrendatario**
+-¿Cuál es su nombre completo?
+-¿Cuántos años tiene ?
+-¿A que se dedica actualmente?
+-¿Como arrendatario de un vehículo que le parece la aplicacion?
+-¿Segun su perspectiva que se podría mejor en la aplicación?
+-¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
+
+**Preguntas Propietario**
+-¿Cuál es su nombre completo?
+-¿Cuántos años tiene ?
+-¿A que se dedica actualmente?
+-¿Como propietario de un vehículo que le parece la aplicacion?
+-¿Segun su perspectiva que se podría mejor en la aplicación?
+-¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
+
 #### 5.3.2. Registro de Entrevistas. 
+
+**Entrevista 1**
+
+**Entrevista 2**
+
+**Entrevista 3**
+
+**Entrevista 4**
+
+**Entrevista 5**
+
 #### 5.3.3. Evaluaciones según heurísticas. 
+**Grupo 2 auditor - Grupo 2 Auditado**
+
+**SITE o APP A EVALUAR:**
+
+*Automovile-Unit*
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de cuenta
+2. Inicio de sesión
+3. Ver autos disponibles en  Busqueda de Vehiculos (arrendatario)
+4. Buscar Vehículo (arrendatario)
+5. Registrar vehículo (propietario)
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Solicitudes
+2. Notificaciones
+3. Alquiler de Vehiculos 
+4. Generar contrato
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <td align="center"><strong>Nivel</strong></td>
+    <td align="center"><strong>Descricpion</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+  
+</table>
+
+**TABLA RESUMEN:**
+<table>
+  <tr>
+    <td align="center"><strong>#</strong></td>
+    <td align="center"><strong>Problema</strong></td>
+    <td align="center"><strong>Escala de Severidad</strong></td>
+    <td align="center"><strong>Heurística/Principio violada(o)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">4</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+  
+</table>
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+..............
+## Video About-the-Product
+
+Link del Video: [colocar link](-----)
 
 
 ### CONCLUSIONES
@@ -2395,6 +2555,14 @@ Link del Informe de trello:
 - Desafíos de Seguridad y Confianza: Un desafío importante es establecer medidas de seguridad y confianza sólidas para garantizar que tanto los propietarios como los arrendatarios se sientan cómodos participando en la plataforma.
 - Diferenciación Competitiva: Automovile-Unit debe enfocarse en la diferenciación competitiva, ofreciendo características y servicios únicos que la distingan de otras plataformas de alquiler de vehículos.
 - Fomentar la Comunicación y la Evaluación Continua: La comunicación clara entre propietarios y arrendatarios, así como la evaluación continua de la calidad del servicio y las políticas, serán clave para el éxito a largo plazo de la startup.
+
+## Video About-the-Team
+
+Link del Video: [colocar link](-----)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### ANEXOS
 
