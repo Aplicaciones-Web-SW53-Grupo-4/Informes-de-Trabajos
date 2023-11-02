@@ -2324,11 +2324,11 @@ https://automovile-unit.web.app/#/
 
 ##### **5.2.2.8. Team Collaboration Insights during Sprint.**
 
-![impur](https://i.postimg.cc/44tm7gBL/contribuitors.png)
+![impur](https://i.postimg.cc/kXhf2DZy/Captura-de-pantalla-2023-09-27-180120.png)
 
-![impur](https://i.postimg.cc/qvGKtTMV/contribuitors-spring3.png)
+![impur](https://i.postimg.cc/BZMPCPmq/commit.png)
 
-![impur](https://i.postimg.cc/DfqwfcwR/image.png)
+![impur](https://i.postimg.cc/JzDKZMCC/Captura-de-pantalla-2023-09-27-180138.png)
 
 ## 5.2.3. Sprint 3. 
 #### 5.2.3.1. Sprint Planning 3. 
