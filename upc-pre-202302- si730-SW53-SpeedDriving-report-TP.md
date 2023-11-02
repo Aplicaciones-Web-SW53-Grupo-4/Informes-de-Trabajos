@@ -2344,10 +2344,10 @@ https://automovile-unit.web.app/#/
 
 ## 5.2.3. Sprint 3. 
 #### 5.2.3.1. Sprint Planning 3. 
-![impur](https://i.postimg.cc/sDHFrVvn/sprintplann3.png)
+![impur](https://i.postimg.cc/MpXPFH52/Captura-de-pantalla-2023-11-01-233619.png)
 
 Link del Informe de trello:
- https://trello.com/b/c1jjPe7c/tb2-semana-12
+ https://trello.com/invite/b/IupMaSmj/ATTI19f908d56f99c707b3fe0594ae028f1eA5CE86E3/sprint-3-automovileunit
 
 #### 5.2.3.2. Sprint Backlog 3. 
 
