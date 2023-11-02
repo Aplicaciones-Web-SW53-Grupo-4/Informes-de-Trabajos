@@ -2430,20 +2430,20 @@ https://automovile-unit.web.app/#/
 #### 5.3.1. Diseño de Entrevistas.
 
 **Preguntas Arrendatario**
--¿Cuál es su nombre completo?
--¿Cuántos años tiene ?
--¿A que se dedica actualmente?
--¿Como arrendatario de un vehículo que le parece la aplicacion?
--¿Segun su perspectiva que se podría mejor en la aplicación?
--¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
+1. ¿Cuál es su nombre completo?
+2. ¿Cuántos años tiene ?
+3. ¿A que se dedica actualmente?
+4. ¿Como arrendatario de un vehículo que le parece la aplicacion?
+5. ¿Segun su perspectiva que se podría mejor en la aplicación?
+6. ¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
 
 **Preguntas Propietario**
--¿Cuál es su nombre completo?
--¿Cuántos años tiene ?
--¿A que se dedica actualmente?
--¿Como propietario de un vehículo que le parece la aplicacion?
--¿Segun su perspectiva que se podría mejor en la aplicación?
--¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
+1. ¿Cuál es su nombre completo?
+2. ¿Cuántos años tiene ?
+3. ¿A que se dedica actualmente?
+4. ¿Como propietario de un vehículo que le parece la aplicacion?
+5. ¿Segun su perspectiva que se podría mejor en la aplicación?
+6. ¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
 
 #### 5.3.2. Registro de Entrevistas. 
 
