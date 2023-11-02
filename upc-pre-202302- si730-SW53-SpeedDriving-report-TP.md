@@ -2358,7 +2358,7 @@ Link del Informe de trello:
 | Register propietario y arrendatario en Backend| 2 | Register | 1 horas | Erick Ruiz | Hecho |
 | Buscar Vehículo en Backend | 3 | Buscar vehículo | 2 horas | Joseph Herrera | Hecho |
 | Registro Vehículo | 4 | Registro Vehicular | 3 horas | Joseph Herrera en Backend| Hecho |
-|Implementacion de informe | 5 | Mantenimiento | 2 horas | Aldo Baldeon | Hecho |
+|Implementacion de informe | 5 | Mantenimiento | 2 horas | Aldo Baldeon, Mauricio Salas | Hecho |
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review. 
@@ -2586,7 +2586,8 @@ La solución más sencilla seria implementar el metodo del API, ya que aun no ha
 
 ## Video About-the-Product
 
-Link del Video: [colocar link](-----)
+Link del Video: [https://www.youtube.com/watch?v=XuUY4BRPOWA&ab_channel=Tecny_]
+![Imgur](https://i.postimg.cc/cCrwVvqj/aboutproduct.png)
 
 
 ### CONCLUSIONES
