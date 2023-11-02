@@ -1141,7 +1141,6 @@ Como grupo, hemos llegado a la conclusión de adoptar un formato jerárquico est
 * **Acerca de nuestra solución:**
 En esta sección se describirá brevemente nue**stra solución
 * **Beneficios:** Aquí se colocarán los beneficios más llamativos de hacer uso de nuestra web application, ya sea como propietario o arrendatario.
-* **Requisitos:** Aquí se colocarán los requisitos que los usuarios deben cumplir para poder rentar o dar en alquiler algún vehículo.
 * **Link hacia la web application:**
 Nuestra landing page tiene como objetivo que el usuario visite nuestra web application y para eso usaremos
 un botón call to action con el enlace a la web application.
@@ -1228,21 +1227,21 @@ Los "Navigation Systems" (Sistemas de Navegación) se refieren a las estrategias
 </div>
 
 1. **Barra de Menú Superior:**
-En la parte superior de la página, encontrarás una barra de menú que te permite navegar directamente a las diferentes secciones clave. Los enlaces en el menú te llevarán a **"Inicio", "Acerca de", "Beneficios", "Requisitos", "Preguntas Frecuentes" y "Contacto".**
+En la parte superior de la página, encontrarás una barra de menú que te permite navegar directamente a las diferentes secciones clave. Los enlaces en el menú te llevarán a **"Inicio", "Acerca de", "Beneficios", "Preguntas Frecuentes" y "Contacto".**
 
-2. **Navegación a través de Botones:**
+1. **Navegación a través de Botones:**
 En la sección de "Inicio", un botón "Regístrate" te llevará directamente a la web application. Esto garantiza una navegación rápida hacia la acción principal que deseamos que los usuarios tomen.
 
-3. **Footer - Navegación Rápida:**
-En la parte inferior de la página, el footer incluye una sección de navegación rápida. Aquí encontrarás botones que te llevarán a las secciones clave, como **"Inicio", "Acerca de", "Beneficios", "Requisitos", "Preguntas Frecuentes" y "Contacto".**
+1. **Footer - Navegación Rápida:**
+En la parte inferior de la página, el footer incluye una sección de navegación rápida. Aquí encontrarás botones que te llevarán a las secciones clave, como **"Inicio", "Acerca de", "Beneficios", "Preguntas Frecuentes" y "Contacto".**
 
-4. **Scroll Suave:**
+1. **Scroll Suave:**
 Implementa un scroll suave para que, al hacer clic en un enlace del menú o un botón en el footer, los usuarios sean llevados suavemente a la sección correspondiente en lugar de un salto abrupto.
 
-5. **Navegación a Través de Carrusel:**
+1. **Navegación a Través de Carrusel:**
 En la sección de "Beneficios", usa un carrusel para resaltar diferentes ventajas y para que los usuarios puedan explorar cada beneficio de manera ordenada.
 
-6. **Dropdown para Requisitos:**
+1. **Dropdown para Requisitos:**
 En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arrastrar hacia abajo para revelar los requisitos necesarios. Este enfoque de navegación creativa añade interacción a la página.
 
 
@@ -1254,12 +1253,12 @@ En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arras
 
  <div align="center" style="{}" >
   <strong>Landing page para Desktop Web Browser</strong>
-  <img src="images/images-cap-IV/landing_page_wireframes/desktop/Landing page.jpg" alt="Imagen centrada"/>
+  <img src="images/images-cap-IV/landing/landing-w-d.svg" alt="Imagen centrada"/>
 </div>
 
  <div align="center" style="{}" >
   <strong>Landing page para Mobile Web Browser</strong>
-  <img src="images/images-cap-IV/landing_page_wireframes/movile/Landing page_wireframe_movil_page-0002.jpg"/>
+  <img src="images/images-cap-IV/landing/landing-w-m.svg"/>
 </div>
 </div>
 
@@ -1269,12 +1268,12 @@ En la sección de "Requisitos", utiliza una imagen que los usuarios puedan arras
 
   <div align="center" style="{}" >
   <strong>Landing page para Desktop Web Browser</strong>
-   <img src="images/images-cap-IV/landing_page_mockups/desktop/Landing_page.jpg" alt="Imagen centrada"/>
+   <img src=images/images-cap-IV/landing/landing-m-d.svg  alt="Imagen centrada"/>
 </div>
 
  <div align="center" style="{}" >
   <strong>Landing page para Mobile Web Browser</strong>
-   <img src="images/images-cap-IV/landing_page_mockups/movile/ilovepdf_page_movil_mockup_page-0001.jpg"/>
+   <img src=images/images-cap-IV/landing/landing-m-m.svg />
 </div>
 
 ## **4.4. Web Applications UX/UI Design.**
@@ -2170,20 +2169,9 @@ En esta parte sabemos que hemos desarrollado solo el apartado de la Landing Page
 En esta entrega nos enfocamos en el desarrollo total de la Landing Page y poder desplegarlo para que a partir de ahi poder crear e implementar las diferentes funcionalidades que tenemos pensadas. La landing page creada habla sobre como nuestra Aplicación Web tendrá el impacto en el mundo automovilístico para generar una repercusión en la compra, venta y alquiler de vehículos
 
 <p align="center">
-  <img src="images/images-cap-V/landing1.PNG" alt="Imagen centrada"/>
+  <img src="images/images-cap-IV/landing/landing-m-d.svg" alt="Imagen centrada"/>
 </p>
-<hr>
-<p align="center">
-  <img src="images/images-cap-V/landing2.PNG" alt="Imagen centrada"/>
-</p>
-<hr>
-<p align="center">
-  <img src="images/images-cap-V/landing3.PNG" alt="Imagen centrada"/>
-</p>
-<hr>
-<p align="center">
-  <img src="images/images-cap-V/landing4.PNG" alt="Imagen centrada"/>
-</p>
+
 <hr>
 
 ##### **5.2.1.6. Services Documentation Evidence for Sprint Review.**
@@ -2336,11 +2324,11 @@ https://automovile-unit.web.app/#/
 
 ##### **5.2.2.8. Team Collaboration Insights during Sprint.**
 
-![impur](https://i.postimg.cc/kXhf2DZy/Captura-de-pantalla-2023-09-27-180120.png)
+![impur](https://i.postimg.cc/44tm7gBL/contribuitors.png)
 
-![impur](https://i.postimg.cc/BZMPCPmq/commit.png)
+![impur](https://i.postimg.cc/qvGKtTMV/contribuitors-spring3.png)
 
-![impur](https://i.postimg.cc/JzDKZMCC/Captura-de-pantalla-2023-09-27-180138.png)
+![impur](https://i.postimg.cc/DfqwfcwR/image.png)
 
 ## 5.2.3. Sprint 3. 
 #### 5.2.3.1. Sprint Planning 3. 
