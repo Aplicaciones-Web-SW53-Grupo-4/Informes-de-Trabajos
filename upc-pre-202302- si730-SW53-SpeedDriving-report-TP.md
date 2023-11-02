@@ -2344,10 +2344,10 @@ https://automovile-unit.web.app/#/
 
 ## 5.2.3. Sprint 3. 
 #### 5.2.3.1. Sprint Planning 3. 
-![impur](https://i.postimg.cc/sDHFrVvn/sprintplann3.png)
+![impur](https://i.postimg.cc/MpXPFH52/Captura-de-pantalla-2023-11-01-233619.png)
 
 Link del Informe de trello:
- https://trello.com/b/c1jjPe7c/tb2-semana-12
+ https://trello.com/invite/b/IupMaSmj/ATTI19f908d56f99c707b3fe0594ae028f1eA5CE86E3/sprint-3-automovileunit
 
 #### 5.2.3.2. Sprint Backlog 3. 
 
@@ -2388,9 +2388,29 @@ En esta parte  hemos desarrollado los métodos requeridos para el Backend de la 
 </div>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
-En esta entrega nos enfocamos en el desarrollo de la implementacion de métodos del Backend al Frontent y poder desplegarlo se utilizo lo siguiente. Para el frontend se uso Firebase , para el Backend se uso (Azur) y para la Base de Datos (Free MySQL). A continuacion se muestra las paginas principales desplegadas y conetadas.
+En esta entrega nos enfocamos en el desarrollo de la implementacion de métodos del Backend al Frontent y poder desplegarlo se utilizo lo siguiente. Para el frontend se uso Firebase , para el Backend se uso (Azur) y para la Base de Datos (Free MySQL). A continuacion se muestra las paginas principales desplegadas.
 
-![impur](https://i.postimg.cc/TPVwQ6Ps/Captura-de-pantalla-2023-09-28-131735.png)
+*Aqui vemos lo que es el logeo de usuario*
+![impur](https://i.postimg.cc/VLTCt311/Captura-de-pantalla-2023-11-02-131041.png)
+
+*Luego del logeo accedemos al Profile*
+![impur](https://i.postimg.cc/fR90fBTd/Captura-de-pantalla-2023-11-02-131104.png)
+
+*Luego podemos acceder a realizar el Registro de vehículo*
+![impur](https://i.postimg.cc/5tWQ7L6R/Captura-de-pantalla-2023-11-02-131154.png)
+
+*Si se es arrendatario luego de acceder a Buscar Autos, podemos ver todos los vehiculo que los propietarios hayan ingresado*
+![impur](https://i.postimg.cc/vm7gpTnH/Captura-de-pantalla-2023-11-02-131305.png)
+
+*El buscar auto , dentro de cada sección de vehículo podemos presionar el botón de la lupa para acceder a más funciones, como lo ven a acontinuación.*
+![impur](https://i.postimg.cc/MTWMxw00/Captura-de-pantalla-2023-11-02-131408.png)
+
+
+*Con respecto a las pruebas del Backend a continuación se muestra lo que se hizo a través de Swagger*
+
+![impur](https://i.postimg.cc/YCPhQLWh/Captura-de-pantalla-2023-11-02-142739.png)
+![impur](https://i.postimg.cc/SKzjdQ6V/Captura-de-pantalla-2023-11-02-142802.png)
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 Para esta parte del proyecto, se implemento el Backend , ademas tambien se uso una base de datos, para esto se  utilizo una serie de tecnologías y herramientas clave.
@@ -2413,18 +2433,26 @@ Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimi
 
 Para esta entrega logramos cumplir la implementación del Backend en la cual designamos los métodos necesarios para incluir en el Frontend.
 
-Presentamos:
-URL (Link desplegado de Backend (AutoMovil-Unit)): 
 
-https://automovile-unit.web.app/#/
+Link desplegado de Backend : 
+https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
+
+(Swagger desde compilación local, el mismo proyecto)
+![impur](https://i.postimg.cc/YCPhQLWh/Captura-de-pantalla-2023-11-02-142739.png)
+
+
+Link desplegado del Frontend: https://automovile-unit.web.app/#/
+
+![impur](https://i.postimg.cc/VLTCt311/Captura-de-pantalla-2023-11-02-131041.png)
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
- ![impur](https://i.postimg.cc/kXhf2DZy/Captura-de-pantalla-2023-09-27-180120.png)
+ ![impur](https://i.postimg.cc/LX1CmPzf/Captura-de-pantalla-2023-11-02-143437.png)
 
-![impur](https://i.postimg.cc/BZMPCPmq/commit.png)
+![impur](https://i.postimg.cc/DybD7tPH/Captura-de-pantalla-2023-11-02-143241.png)
 
-![impur](https://i.postimg.cc/JzDKZMCC/Captura-de-pantalla-2023-09-27-180138.png)
+![impur](https://i.postimg.cc/HLKvGz7d/Captura-de-pantalla-2023-11-02-143407.png)
 
 ## 5.3. Validation Interviews. 
 #### 5.3.1. Diseño de Entrevistas.
@@ -2435,7 +2463,7 @@ https://automovile-unit.web.app/#/
 3. ¿A que se dedica actualmente?
 4. ¿Como arrendatario de un vehículo que le parece la aplicacion?
 5. ¿Segun su perspectiva que se podría mejor en la aplicación?
-6. ¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
+6. ¿Considera usted que esta aplicación le podrá ser de mucha ayuda?¿Porqué?
 
 **Preguntas Propietario**
 1. ¿Cuál es su nombre completo?
@@ -2443,11 +2471,20 @@ https://automovile-unit.web.app/#/
 3. ¿A que se dedica actualmente?
 4. ¿Como propietario de un vehículo que le parece la aplicacion?
 5. ¿Segun su perspectiva que se podría mejor en la aplicación?
-6. ¿Considera usted esta aplicación le podrá ser de mucha ayuda?¿Porqué?
+6. ¿Considera usted que esta aplicación le podrá ser de mucha ayuda?¿Porqué?
 
 #### 5.3.2. Registro de Entrevistas. 
 
 **Entrevista 1**
+
+*Entrevitado:* Piero Torres
+*Entrevitador:* Erick Ruiz
+
+![impur](https://i.postimg.cc/jd6vjKBW/Captura-de-pantalla-2023-11-02-140747.png)
+
+*Link de entrevista:* https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EZFtfQ1BRupEm9W2H0m3FpYBPBAl9c-uUAYbuOZXPRT-3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=sIA7S0
+
+*Descripción:* En esta ocasión de entrevisto a Piero Torres, el cual tiene 21 añoz , vive en San Martín de Porres y esta actualmente estudiando, para esta entrevista se le hizo realizar al entrevitado unas pruebas de uso de la aplicacion para determinadas secciones, como Login, Register, Registe of Vehicule, y Profile, para poder validar estas secciones. El me comento que es una buena propuesta pero le falta hacer validaciones y agregar las funcionalidades a las demás opciones restantes. 
 
 **Entrevista 2**
 
@@ -2470,17 +2507,17 @@ https://automovile-unit.web.app/#/
 **TAREAS A EVALUAR:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Registro de cuenta
-2. Inicio de sesión
+1. Registro de cuenta (arrendatario y propietario)
+2. Inicio de sesión (arrendatario y propietario)
 3. Ver autos disponibles en  Busqueda de Vehiculos (arrendatario)
-4. Buscar Vehículo (arrendatario)
-5. Registrar vehículo (propietario)
-
+4. Registrar vehículo (propietario)
+5. Perfil de (propietario)
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Solicitudes
 2. Notificaciones
 3. Alquiler de Vehiculos 
 4. Generar contrato
+5. Perfil de (propietario)
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
@@ -2616,11 +2653,29 @@ Link del Video: [colocar link](-----)
 - **Link del GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4
 - **Link del Informe en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Informes-de-Trabajos
 - **Link del Features en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Features-Testing
+
 - **Link del GitHub de la Landing Page:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Landing-page
 - **Link del GitHub del Frontend:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend
-- **Link de la Landing Page:** https://aplicaciones-web-sw53-grupo-4.github.io/landing-page-v2/
 
-- **Link de la Frontend Desplegado:** https://automovile-unit.web.app/#/login-tenant
+- **Link del GitHub del Backend:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Web-Application-Backend-AutomovileUnit
+
+
+- **Link de la Landing Page Desplegado:** https://aplicaciones-web-sw53-grupo-4.github.io/landing-page-v2/
+
+- **Link de la Frontend Desplegado:** https://automovile-unit.web.app/#/
+- **Link de la Backend Desplegado:** https://automovile-unit-git.azurewebsites.net   
+(Esta ruta es directa de AZURE, además el swagger no funciona en esa ruta por motivos desconocidos, puede acceder a ver datos por las siguientes rutas)
+ - https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll (Todos los Autos registrados)
+ - https://automovile-unit-git.azurewebsites.net/api/Profile/(coloque el id)   (Devuelve al usuario y que vehiculo registro)
+
+ - **Datos de Despliegue de Base de Datos:** 
+ 1. Server: sql3.freemysqlhosting.net
+ 2. Name: sql3658786
+3. Username: sql3658786
+4. Password: nFNgSaFgGj
+5. Port number: 3306
+
+- **Video de exposición de TB2:** 
 
 ## Bibliografía
 - HTML: HyperText Markup Language | MDN. (2023, July 17). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/HTML
