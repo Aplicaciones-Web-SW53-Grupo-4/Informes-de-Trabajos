@@ -2433,10 +2433,18 @@ Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimi
 
 Para esta entrega logramos cumplir la implementación del Backend en la cual designamos los métodos necesarios para incluir en el Frontend.
 
-Presentamos:
-URL (Link desplegado de Backend (AutoMovil-Unit)): 
 
-https://automovile-unit.web.app/#/
+Link desplegado de Backend : 
+https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
+
+(Swagger desde compilación local, el mismo proyecto)
+![impur](https://i.postimg.cc/YCPhQLWh/Captura-de-pantalla-2023-11-02-142739.png)
+
+
+Link desplegado del Frontend: https://automovile-unit.web.app/#/
+
+![impur](https://i.postimg.cc/VLTCt311/Captura-de-pantalla-2023-11-02-131041.png)
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
