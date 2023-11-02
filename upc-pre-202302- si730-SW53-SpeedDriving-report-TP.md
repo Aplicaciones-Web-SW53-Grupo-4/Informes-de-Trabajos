@@ -151,7 +151,8 @@
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
 | La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. |**TB1: Rengifo Mirabal, Randy Becker:** Capitulo I y III - **TB1: Baldeon Fabian, Aldo Alberto:** Capitulo II - **TB1: Herrera Del Pino, Josehp Piero** Capitulo IV - **TB1: Ruiz Torres, Erick Hernan** Capitulo IV - **TB1: Salas Pujay, Mauricio Alberto** Capitulo V | [- Hemos reconocido la importancia fundamental del trabajo en equipo en el logro de objetivos y metas compartidas. Comprendemos que no se trata solo de las habilidades individuales, sino de la capacidad de colaborar de manera efectiva. - Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. Esto implica definir metas concretas, asignar responsabilidades y elaborar un plan estratégico. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos. Entendemos que el éxito radica en nuestra capacidad para trabajar de manera eficiente y coordinada para alcanzar resultados deseables.]|
-| Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TB1: Todos los Integrantes** - Implementación del Frontend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Frontend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
+| Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TP1: Todos los Integrantes** - Implementación del Frontend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Frontend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
+| Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TB2: Todos los Integrantes** - Implementación del Backend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Backend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
 
 # CAPÍTULO I: INTRODUCCIÓN 
 
@@ -2456,6 +2457,9 @@ https://automovile-unit.web.app/#/
 
 **Entrevista 5**
 
+
+**Entrevista 6**
+
 #### 5.3.3. Evaluaciones según heurísticas. 
 **Grupo 2 auditor - Grupo 2 Auditado**
 
@@ -2514,35 +2518,72 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">Al acceder el alquiler de propietario no me muestra el vehiculo que he registrado.</td>
+    <td align="center">1</td>
+    <td align="center">Usability: Consistencia y Estándares</td>
   </tr>
     <tr>
     <td align="center">2</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">El perfil  no muestra los datos que como usuario registro al ingresar a la app</td>
+    <td align="center">1</td>
+    <td align="center">Usability: Consistencia y Estándares</td>
   </tr>
     <tr>
     <td align="center">3</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">Como usuario arrendatario no me aparece el vehiculo que quiero alquilar en la seccion de solicitudes</td>
+    <td align="center">1</td>
+    <td align="center">Usability: Consistencia y Estándares</td>
   </tr>
-    <tr>
-    <td align="center">4</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
-  </tr>
-  
 </table>
 
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-..............
+**PROBLEMA #1**: Al acceder el alquiler de propietario no me muestra el vehiculo que he registrado
+
+Severidad: 1
+Heurística violada: Usability - Consistencia y Estándares
+
+Problema:
+
+Al momento de registrar y luego logearse  como arrendatario o propietario, y acceder a alquiler de arrendatario debe aparecer todos los vehiculos que ha alquilado .Además si se es propietario deberia aparecer todos los vehiculos que se ha registrado.
+
+![Imgur](https://i.postimg.cc/13z4FhH3/Captura-de-pantalla-2023-11-01-230210.png)
+
+Recomendación:
+
+La solución más sencilla seria implementar el metodo del API, ya que aun no hay una conexion con ese punto.
+
+**PROBLEMA #2**: El perfil  no muestra los datos que como usuario registro al ingresar a la app
+
+Severidad: 1
+Heurística violada: Usability - Consistencia y Estándares
+
+Problema:
+
+Como Arrendatario y Propietario al momento de ingresar al perfil me muestra datos erroneos incluso luego de registrarme y logearme.
+
+![Imgur](https://i.postimg.cc/fRgyj22j/Captura-de-pantalla-2023-11-01-231108.png)
+
+Recomendación:
+
+La solución más sencilla seria implementar el metodo del API, ya que aun no hay una conexion con ese punto.
+
+**PROBLEMA #3**: Como usuario arrendatario no me aparece el vehiculo que quiero alquilar en la seccion de solicitudes
+
+Severidad: 1
+Heurística violada: Usability - Consistencia y Estándares
+
+Problema:
+
+Como Arrendatario al momento de acceder solicitudes me aparece información erronea de vehiculos predeterminados.
+
+![Imgur](https://i.postimg.cc/W4F39GxR/Captura-de-pantalla-2023-11-01-231523.png)
+
+Recomendación:
+
+La solución más sencilla seria implementar el metodo del API, ya que aun no hay una conexion con ese punto.
+
 ## Video About-the-Product
 
 Link del Video: [colocar link](-----)
@@ -2576,8 +2617,9 @@ Link del Video: [colocar link](-----)
 - **Link del Features en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Features-Testing
 - **Link del GitHub de la Landing Page:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Landing-page
 - **Link del GitHub del Frontend:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend
-- **Link de la Landing Page:** https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
-- **Link de la Frontend Desplegado:** https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+- **Link de la Landing Page:** https://aplicaciones-web-sw53-grupo-4.github.io/landing-page-v2/
+
+- **Link de la Frontend Desplegado:** https://automovile-unit.web.app/#/login-tenant
 
 ## Bibliografía
 - HTML: HyperText Markup Language | MDN. (2023, July 17). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/HTML
