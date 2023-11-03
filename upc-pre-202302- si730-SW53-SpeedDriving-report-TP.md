@@ -2115,7 +2115,7 @@ Luego en la misma seccion de Settings ya tendríamos nuestro link creado en el a
   <img src="images/images-cap-V/linkcreado.PNG" alt="Imagen centrada"/>
 </p>
 Link de la Landing Page: 
-https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+https://aplicaciones-web-sw53-grupo-4.github.io/landing-page-v2/
 
 
 ## **CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT**
@@ -2194,7 +2194,7 @@ Presentamos:
 URL (Link desplegado de Landing Page(AutoMovil-Unit)): 
 
 
-https://aplicaciones-web-sw53-grupo-4.github.io/Landing-page/
+https://aplicaciones-web-sw53-grupo-4.github.io/landing-page-v2/
 
 ##### **5.2.1.8. Team Collaboration Insights during Sprint.**
 <p align="center">
