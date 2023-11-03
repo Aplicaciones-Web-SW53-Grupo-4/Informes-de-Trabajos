@@ -2079,7 +2079,7 @@ El proyecto, documentación e informe este alojado en el famoso "GitHub" herrami
 Link: https://github.com
 ### **5.1.2. Source Code Management.**
 URL del Repositorio de GitHub para la Landing Page.
-Landing Page:
+Landing Page: https://github.com/Aplicaciones-Web-SW53-Grupo-4/landing-page-v2.git
 ##### GitFlow
 La metodología GitFlow es un modo de trabajo de método en flujo la cual es aplicado en un repositorio de git, esto nos permite ver quien está actualizando y realizando acciones dentro del repositorio, junto a esto con las opciones de reparar y realizar mantenimiento al repositorio de forma continua.
 ##### Main Branch
@@ -2621,7 +2621,7 @@ Link del Video: [https://www.youtube.com/watch?v=XuUY4BRPOWA&ab_channel=Tecny_]
 
 ## Video About-the-Team
 
-Link del Video: [colocar link](-----)
+Link del Video: [Link](https://drive.google.com/drive/folders/1S3ZuTDa2lE0ZM9B0e5zdbFjgfD2HScpZ?usp=drive_link)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -2638,7 +2638,7 @@ Link del Video: [colocar link](-----)
 - **Link del Informe en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Informes-de-Trabajos
 - **Link del Features en GitHub:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Features-Testing
 
-- **Link del GitHub de la Landing Page:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Landing-page
+- **Link del GitHub de la Landing Page:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/landing-page-v2.git
 - **Link del GitHub del Frontend:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend
 
 - **Link del GitHub del Backend:** https://github.com/Aplicaciones-Web-SW53-Grupo-4/Web-Application-Backend-AutomovileUnit
