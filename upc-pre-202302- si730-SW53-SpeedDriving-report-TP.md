@@ -2481,9 +2481,6 @@ Link desplegado del Frontend: https://automovile-unit.web.app/#/
 *Descripción:* En esta oportunidad tenemos a Cristian Quito de 20 años de edad. Compartió su experiencia positiva con la plataforma de alquiler de vehículos Automovile-Unit. Tambien, destacó la posibilidad de alquilar su vehículo cuando no lo utilizaba, lo que le permitirá generar ingresos extras. Elogió la facilidad de uso de la aplicación web, que le permite gestionar su vehículo y las reservas de manera eficiente. Sin embargo, sugirió que la plataforma podría mejorar su diseño web, ya que encontró que la interfaz no era tan intuitiva. El entrevistado expresó su satisfacción general con la plataforma y planea utilizarla para generar ingresos adicionales. Su sugerencia de mejora en el diseño web se considera valiosa para la plataforma. 
 
 
-
-**Entrevista 6**
-
 #### 5.3.3. Evaluaciones según heurísticas. 
 **Grupo 2 auditor - Grupo 2 Auditado**
 
