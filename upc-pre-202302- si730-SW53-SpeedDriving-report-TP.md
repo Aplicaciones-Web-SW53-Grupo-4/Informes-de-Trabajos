@@ -2475,16 +2475,11 @@ Link desplegado del Frontend: https://automovile-unit.web.app/#/
 *Descripción:* En esta ocasión de entrevisto a Piero Torres, el cual tiene 21 añoz , vive en San Martín de Porres y esta actualmente estudiando, para esta entrevista se le hizo realizar al entrevitado unas pruebas de uso de la aplicacion para determinadas secciones, como Login, Register, Registe of Vehicule, y Profile, para poder validar estas secciones. El me comento que es una buena propuesta pero le falta hacer validaciones y agregar las funcionalidades a las demás opciones restantes. 
 
 **Entrevista 2**
-
+![impur](https://github.com/Aplicaciones-Web-SW53-Grupo-4/Informes-de-Trabajos-Aplicaciones-Web/blob/main/images/images-cap-V/Entrevista%202.jpg)
 *Link de entrevista:* https://drive.google.com/drive/folders/1PdTNkjV5AypAO9Z2PdzKUu9BXao_40sI?usp=sharing 
 
 *Descripción:* En esta oportunidad tenemos a Cristian Quito de 20 años de edad. Compartió su experiencia positiva con la plataforma de alquiler de vehículos Automovile-Unit. Tambien, destacó la posibilidad de alquilar su vehículo cuando no lo utilizaba, lo que le permitirá generar ingresos extras. Elogió la facilidad de uso de la aplicación web, que le permite gestionar su vehículo y las reservas de manera eficiente. Sin embargo, sugirió que la plataforma podría mejorar su diseño web, ya que encontró que la interfaz no era tan intuitiva. El entrevistado expresó su satisfacción general con la plataforma y planea utilizarla para generar ingresos adicionales. Su sugerencia de mejora en el diseño web se considera valiosa para la plataforma. 
 
-**Entrevista 3**
-
-**Entrevista 4**
-
-**Entrevista 5**
 
 
 **Entrevista 6**
