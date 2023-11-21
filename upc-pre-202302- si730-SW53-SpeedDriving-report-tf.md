@@ -2521,7 +2521,8 @@ Link desplegado de Backend :
 https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
-
+![Alt text](images/image.png)
+![Alt text](images/image-1.png)
 
 ## 5.3. Validation Interviews. 
 #### 5.3.1. Diseño de Entrevistas.
