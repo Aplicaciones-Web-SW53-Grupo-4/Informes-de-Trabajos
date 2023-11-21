@@ -24,7 +24,7 @@
 - [Ruiz Torres, Erick Hernan - u202118946]
 - [Salas Pujay, Mauricio Alberto - u202120467]
 
-**Mes y Año:** [Agosto - 2023]
+**Mes y Año:** [Noviembre - 2023]
 
 ***
 
@@ -32,16 +32,12 @@
 
 | Versión | Fecha       | Autor            | Descripción de modificación       |
 | ------- | ----------- | ---------------- | --------------------------------- |
-| 1    | [23-08-2023]     | [Todos los integrantes]  | [Asignación de partes a trabajar por cada integrante del equipo] |
-| 2    | [28-08-2023]     | [Todos los integrantes]  | [Implementacion del capitulo I,II y III] |
-| 3    | [03-09-2023]     | [Todos los integrantes]  | [Implementacion del capitulo IV] |
-| 4    | [05-09-2023]     | [Todos los integrantes]  | [Implementacion del capitulo V] |
-| 5    | [08-09-2023]     | [Todos los integrantes]  | [Ultimas revisiones del documento] |
-| 6    | [23-09-2023]     | [Todos los integrantes]  | [Implementación de vistas del Frontend] |
-| 7    | [23-09-2023]     | [Todos los integrantes]  | [Avence del Sprint 2] |
-| 8    | [27-09-2023]     | [Erick Ruiz Torres]  | [Despliegue del Frontend] |
+| 1    | [22-08-2023]     | [Todos los integrantes]  | [Asignación de partes a trabajar por cada integrante del equipo] |
 | 9    | [27-09-2023]     | [Todos los integrantes]  | [Ultimas revisiones del informe] |
-
+| 10    | [20-11-2023]     | [Todos los integrantes]  | [Implementación y correciones del backend] |
+| 11    | [19-11-2023]     | [Todos los integrantes]  | [Avence del Sprint 4] |
+| 12    | [20-11-2023]     | [Todos los integrantes]  | [Despliegue del Frontend y backend] |
+| 13    | [21-11-2023]     | [Todos los integrantes]  | [Ultimas revisiones del informe] |
 
 
 
