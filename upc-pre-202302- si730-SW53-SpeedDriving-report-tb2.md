@@ -2513,14 +2513,12 @@ Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimi
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
 Para esta entrega logramos cumplir la implementación del Backend en la cual designamos los siguientes metodos implementados muy aparte de los que ya han sido implementado en el Sprint Anterior(3), estos son: Funcionalidad de renta , solicitudes , notificaciones, y funacionalidad de aceptar y rechazar alquiler. Estas implementaciones estan validadas y documentadas. La cual estos ya han sido implementados y verificados correctamente en nuestra aplicacion Web (Frontent - Backend)
 
-
-Link desplegado del Frontend: https://automovile-unit.web.app/#/
+ Link desplegado del Frontend: https://automovile-unit.web.app/#/
 
 ![impur](https://i.postimg.cc/VLTCt311/Captura-de-pantalla-2023-11-02-131041.png)
 
-Link desplegado de Backend : 
+ink desplegado de Backend : 
 https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
-
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
