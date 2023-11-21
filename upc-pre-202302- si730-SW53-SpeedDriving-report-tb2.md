@@ -2517,7 +2517,7 @@ Para esta entrega logramos cumplir la implementación del Backend en la cual des
 
 ![impur](https://i.postimg.cc/VLTCt311/Captura-de-pantalla-2023-11-02-131041.png)
 
-ink desplegado de Backend : 
+Link desplegado de Backend : 
 https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint. 
@@ -2546,8 +2546,8 @@ https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
 
 **Entrevista 1**
 
-*Entrevitado:* Piero Torres
-*Entrevitador:* Erick Ruiz
+*Entrevistado:* Piero Torres
+*Entrevistador:* Erick Ruiz
 
 ![impur](https://i.postimg.cc/jd6vjKBW/Captura-de-pantalla-2023-11-02-140747.png)
 
@@ -2722,7 +2722,7 @@ Automovile-Unit tiene el potencial de aprovechar con éxito una oportunidad de m
 
 ## Video About-the-Team
 
-Link del Video: [Link](https://drive.google.com/drive/folders/1S3ZuTDa2lE0ZM9B0e5zdbFjgfD2HScpZ?usp=drive_link)
+Link del Video: https://drive.google.com/drive/folders/1S3ZuTDa2lE0ZM9B0e5zdbFjgfD2HScpZ?usp=drive_link
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
