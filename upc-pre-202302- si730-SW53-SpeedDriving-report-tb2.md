@@ -2442,6 +2442,89 @@ Link desplegado del Frontend: https://automovile-unit.web.app/#/
 
 ![impur](https://i.postimg.cc/HLKvGz7d/Captura-de-pantalla-2023-11-02-143407.png)
 
+
+## 5.2.4. Sprint 4 
+#### 5.2.4.1. Spring Planning 4. 
+
+![impur](https://i.postimg.cc/g0n4QLLJ/ga.png)
+
+Link del Informe de Trello:
+https://trello.com/b/ryxhkAEx/sprint-4-automovilunit
+#### 5.2.4.2. Sprint Backlog 4. 
+
+| Funcionalidad | ID | Título de la Funcionalidad | Estimación (en horas) | Asignado a | Estado |
+| --- | --- | --- | --- | --- | --- |
+| Funcionalidad de Renta | 1 | Renta de Propiedades | 3 horas | Erick Ruiz | Hecho |
+| Funcionalidad de Solicitudes | 2 | Gestión de Solicitudes | 1 hora | Erick Ruiz | Hecho |
+| Funcionalidad de Notificaciones | 3 | Sistema de Notificaciones | 2 horas | Joseph Herrera | Hecho |
+| Funcionalidad de Aceptar y Rechazar Alquiler | 4 | Aceptar/Rechazar Alquiler | 3 horas | Joseph Herrera en Backend | Hecho |
+| Implementación de Informe | 5 | Mantenimiento | 2 horas | Aldo Baldeon, Mauricio Salas | Hecho |
+| Documentación Swagger | 6 | Documentación en Swagger | 1 hora | Mauricio Salas | Hecho |
+| Unit Test | 7 | Unit Test | 3 horas | Aldo Baldeon, Randy Rengifo | Hecho |
+#### 5.2.4.3. Development Evidence for Sprint Review. 
+
+| Repository                                            | Branch | Commit ID                                  | Commit Message                               | Commit Message Body | Committed on Date       |
+|-------------------------------------------------------|--------|--------------------------------------------|----------------------------------------------|---------------------|-------------------------|
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | f4863f0042b0a777630f7776cee063c266136928 | Implement login methods                      | -                   | 17 de noviembre de 2023   |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | eed3186f91ebaf358a68792c143ab8177f5dacb0 | Implement registration methods               | -                   | 18 de noviembre de 2023   |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | 58a82d2c5035a3f1499114934258ff66f27bb630 | Implement profile methods                    | -                   | 19 de noviembre de 2023   |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | 2d54706a78a0201e5fc9ec5d83662b4885c5c396 | Implement search car methods                 | -                | 20 de noviembre de 2023   |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | 8570972b5cdb497b3f6f644bb6d5e02abfa2c389 | Implement register car methods               | -              | 17 de noviembre de 2023  |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0 | Refactor code for better performance         | -                   | 18 de noviembre de 2023   |
+| Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications  | main   | b0e1a2d3c4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9 | Add documentation for Swagger integration   | -                   | 19 de noviembre de 2023   |
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review. 
+En esta parte hemos desarrollado los metodos requeridos para el Backend y la implementacion entre el Frontent y el Backend de nuestra Aplicacion Web. Se realizaron las pruebas necesarias para tambien validar el comportamiento simultaneo del debido Backend y si presenta algun error o falla. En nuestro caso el testeo fue completamente exitoso.
+
+|USER STORY| Repository                                           | Branch | Commit ID                                  | Commit Message                               | Commit Message Body | Committed on Date       |
+|----------|------------------------------------------------------|--------|--------------------------------------------|----------------------------------------------|---------------------|-------------------------|
+| 7        | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications | main   | a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0 | Implementación de métodos para la Funcionalidad de Renta (Incluye Unit Test) | -                   | 19 de noviembre de 2023 |
+| 14       | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications | main   | b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9 | Implementación de métodos para la Funcionalidad de Solicitudes (Incluye Unit Test)      | -          | 19 de noviembre de 2023 |
+| 2 y 9    | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications | main   | c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0 | Implementación de métodos para la Funcionalidad de Notificaciones (Incluye Unit Test)    | -                   | 19 de noviembre de 2023 |
+| 18       | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend | main   | d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2 | Implementación de métodos para la Funcionalidad de Aceptar y Rechazar Alquiler (Incluye Unit Test)  | -                   | 20 de noviembre de 2023 |
+| 11 y 20  | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend | main   | e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4 | Implementación de métodos para la Documentación Swagger (Incluye Unit Test) | - | 20 de noviembre de 2023 |
+| 4        | Aplicaciones-Web-SW53-Grupo-4/Web-Application-Frontend | main   | f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6 | Implementación de métodos para el en el Frontend (Incluye Unit Test) | - | 20 de noviembre de 2023 |
+| 0        | Aplicaciones-Web-SW53-Grupo-4/Backend-Web-Applications | main   | 1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0 | Implementación de métodos para el Backend (Incluye Unit Test) | - | 21 de noviembre de 2023 |
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review. 
+En esta este ultimo Sprint 4, ya para finalizar con el desarrollo de la implemetacion de los metodos del Backend al Frontent y para poder desplegarlo se utilizo. Firebase para la Frontent, para el Backend se uso (Azure) y (MySQL Workbench) para la base de datos y las funcionalidades CRUD que nos pedian. A continuacion les presentaremos las siguientes funcionalidades como:
+Funcionalidad de renta , solicitudes , notificaciones, y funacionalidad de aceptar y rechazar alquiler. Estas implementaciones estan validadas y documentadas.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review. 
+
+Para esta parte del proyecto, se implemento el Backend , ademas tambien se uso una base de datos, para esto se  utilizo una serie de tecnologías y herramientas clave.
+
+**Webstorm (IDE DE DESARROLLO)**:Utilizamos Webstorm como IDE para el desarrollo de nuestro Frontend .
+**Rider (IDE DE DESARROLLO)**:Utilizamos Rider como IDE para el desarrollo de nuestro Backend.
+
+**MYSQL:**
+Hemos utilizado MYSQL para  gestionar nuestra Base de Datos, dar validaciones y para crear las funcionalidades CRUD junto a nuestros IDE de desarrollo.
+
+**C#**
+C# se ha implementado como lenguaje principal para el desarrollo del Backend. Asi tambien que junto a la parte de Base de Datos(MySQL) nos ayudo a tener un control ameno de nuestras funcionalidades de la Backend de la Aplicacion Web.
+
+**Git**
+Git es nuestro sistema de control de versiones principal. Lo hemos utilizado para rastrear y gestionar cambios en nuestro código a lo largo del desarrollo del proyecto.
+**GitHub**
+Hemos alojado nuestro repositorio en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. GitHub también nos ha brindado una plataforma para revisar y discutir problemas y solicitudes de incorporación de cambios.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review. 
+Para esta entrega logramos cumplir la implementación del Backend en la cual designamos los siguientes metodos implementados muy aparte de los que ya han sido implementado en el Sprint Anterior(3), estos son: Funcionalidad de renta , solicitudes , notificaciones, y funacionalidad de aceptar y rechazar alquiler. Estas implementaciones estan validadas y documentadas. La cual estos ya han sido implementados y verificados correctamente en nuestra aplicacion Web (Frontent - Backend)
+
+
+Link desplegado del Frontend: https://automovile-unit.web.app/#/
+
+![impur](https://i.postimg.cc/VLTCt311/Captura-de-pantalla-2023-11-02-131041.png)
+
+Link desplegado de Backend : 
+https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint. 
+
+
 ## 5.3. Validation Interviews. 
 #### 5.3.1. Diseño de Entrevistas.
 
