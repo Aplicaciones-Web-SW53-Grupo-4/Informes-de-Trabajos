@@ -43,13 +43,9 @@
 
 ## Project Report Collaboration Insights
 
- <p align="center">
-<img src="/images/caratula/commits.jpg" alt="Imagen centrada" width="700" height="400"/>
-<p>
+![Alt text](images/image13.png)
 
-<p align="center">
-<img src="/images/caratula/commits2.jpg" alt="Imagen centrada" width="700" height="400"/>
-<p>
+![Alt text](images/image23.png)
 
 ## **Contenido**
 ### CAPÍTULO I: INTRODUCCIÓN
@@ -134,21 +130,41 @@
     - [5.2.1.8. Team Collaboration Insights during Sprint.]
 
   - [5.2.2. Sprint 2]
-    - [5.2.1.1. Sprint Planning 2.]
-    - [5.2.1.2. Sprint Backlog 2.]
-    - [5.2.1.3. Development Evidence for Sprint Review.]
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review.]
-    - [5.2.1.5. Execution Evidence for Sprint Review.]
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review.]
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review.]
-    - [5.2.1.8. Team Collaboration Insights during Sprint.]  
+    - [5.2.2.1. Sprint Planning 2.]
+    - [5.2.2.2. Sprint Backlog 2.]
+    - [5.2.2.3. Development Evidence for Sprint Review.]
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review.]
+    - [5.2.2.5. Execution Evidence for Sprint Review.]
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review.]
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review.]
+    - [5.2.2.8. Team Collaboration Insights during Sprint.]  
+
+  - [5.2.3. Sprint 3]
+    - [5.2.3.1. Sprint Planning 3.]
+    - [5.2.3.2. Sprint Backlog 3.]
+    - [5.2.3.3. Development Evidence for Sprint Review.]
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review.]
+    - [5.2.3.5. Execution Evidence for Sprint Review.]
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review.]
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review.]
+    - [5.2.3.8. Team Collaboration Insights during Sprint.]  
+
+  - [5.2.4. Sprint 4]
+    - [5.2.4.1. Sprint Planning 4.]
+    - [5.2.4.2. Sprint Backlog 4.]
+    - [5.2.4.3. Development Evidence for Sprint Review.]
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review.]
+    - [5.2.4.5. Execution Evidence for Sprint Review.]
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review.]
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review.]
+    - [5.2.4.8. Team Collaboration Insights during Sprint.] 
 
 ## Student Outcome
 | Criterio Específico | Acciones Realizadas | Conclusiones                                      |
 | ------------------- | ------------------- | ------------------------------------------------- |
 | La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. |**TB1: Rengifo Mirabal, Randy Becker:** Capitulo I y III - **TB1: Baldeon Fabian, Aldo Alberto:** Capitulo II - **TB1: Herrera Del Pino, Josehp Piero** Capitulo IV - **TB1: Ruiz Torres, Erick Hernan** Capitulo IV - **TB1: Salas Pujay, Mauricio Alberto** Capitulo V | [- Hemos reconocido la importancia fundamental del trabajo en equipo en el logro de objetivos y metas compartidas. Comprendemos que no se trata solo de las habilidades individuales, sino de la capacidad de colaborar de manera efectiva. - Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. Esto implica definir metas concretas, asignar responsabilidades y elaborar un plan estratégico. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos. Entendemos que el éxito radica en nuestra capacidad para trabajar de manera eficiente y coordinada para alcanzar resultados deseables.]|
 | Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TP1: Todos los Integrantes** - Implementación del Frontend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Frontend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
-| Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TB2: Todos los Integrantes** - Implementación del Backend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Backend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
+| Comunica oralmente sus ideasy/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. |**TB2: Todos los Integrantes** - Implementación del Backend| [- Cada uno de los integrantes hemos dado ideas para la implementacion de Backend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|**TF: Todos los Integrantes** - Implementación del Backend| [- Cada uno de los integrantes hemos corregido e implemantado nuevas cosas de Backend, trabajando en equipo hemos logrado el objetivo y la meta esperada. -Valoramos la necesidad de establecer objetivos claros y planificar nuestras acciones para lograrlos. - Como equipo, estamos comprometidos con el cumplimiento de nuestros objetivos.]|
 
 # CAPÍTULO I: INTRODUCCIÓN 
 
