@@ -2763,18 +2763,18 @@ Link del Video: https://drive.google.com/drive/folders/1S3ZuTDa2lE0ZM9B0e5zdbFjg
 
 - **Link de la Frontend Desplegado:** https://automovile-unit.web.app/#/
 - **Link de la Backend Desplegado:** https://automovile-unit-git.azurewebsites.net   
-(Esta ruta es directa de AZURE, además el swagger no funciona en esa ruta por motivos desconocidos, puede acceder a ver datos por las siguientes rutas)
+
  - https://automovile-unit-git.azurewebsites.net/api/Automobile/search-car/getAll (Todos los Autos registrados)
- - https://automovile-unit-git.azurewebsites.net/api/Profile/(coloque el id)   (Devuelve al usuario y que vehiculo registro)
+
 
  - **Datos de Despliegue de Base de Datos:** 
- 1. Server: sql3.freemysqlhosting.net
- 2. Name: sql3658786
-3. Username: sql3658786
-4. Password: nFNgSaFgGj
-5. Port number: 3306
-
-- **Video de exposición de TB2:** 
+  1. Server: sql10.freemysqlhosting.net
+  2. Name: sql10663655
+  3. Username: sql10663655
+  4. Password: RJ9M4uKMyH
+  5. Port number: 3306
+   
+- **Video de exposicion TF** https://drive.google.com/drive/folders/1JWron2S8e9mCRzzeFVdyDSnQkBfbemcF?usp=sharing
 
 ## Bibliografía
 - HTML: HyperText Markup Language | MDN. (2023, July 17). Mozilla.org. https://developer.mozilla.org/en-US/docs/Web/HTML
